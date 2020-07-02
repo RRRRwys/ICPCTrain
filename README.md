@@ -2,6 +2,7 @@
 
 #### 介绍
 Learn Git
+Gitee 提交代码：https://gitee.com/help/articles/4122
 
 #### 软件架构
 软件架构说明
