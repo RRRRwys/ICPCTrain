@@ -1,20 +1,21 @@
 2020暑期训练安排
 
 - 轮流拉题
-- 周内：8:00-10:00
+- 周内：8:30-10:30
 - 7月15日开始
 
-Mon. | Tue. | Wed. | Thu. | Fri. | Sat. | Sun.
-:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-补[2h]| 拉[2h] |拉[2h] |拉[2h] |补[2h] | 可选[5h] | 可选[5h]
+Week|Mon. | Tue. | Wed. | Thu. | Fri. | Sat. | Sun.
+:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+Item|补[2h]| 拉[2h] |拉[2h] |拉[2h] |补[2h] | 可选[5h] | 可选[5h]
+Arranger|r|s|r|s|r|r|s
 
 ---
 
 
 训练比赛 | 实际参赛队伍数 | 金排名 | 金最少题数 | 稳金题数 | 赛中ac数 | ac+嘴 | 训练日期
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-[The 2018 ICPC Asia Yokohama Regional Contest [Cloned]](https://vjudge.net/contest/367661)|62|6|7|8|4|[ABCDEGJK]|2020-04-12|
-[2019-2020 ICPC, NERC, Southern and Volga Russian Regional Contest [Cloned]](https://vjudge.net/contest/369006)|727|72|8|9|8|8|2020-04-18|
+[The 2018 ICPC Asia Yokohama Regional Contest [Cloned]](https://vjudge.net/contest/367661)|62|6|7|8|4|[ABCDEGJK]+[H]|2020-04-12|
+[2019-2020 ICPC, NERC, Southern and Volga Russian Regional Contest [Cloned]](https://vjudge.net/contest/369006)|727|72|8|9|8|[ABCFHJLN]|2020-04-18|
 [The 2019 ICPC Asia Shanghai Regional Contest(重现赛)](https://ac.nowcoder.com/acm/contest/4370#question)|169|16|4|5|4|5|2020-05-01|
 [BUPT Spring 2020 Combat #17, 2019 Russia Team Open Contest [Cloned]](https://vjudge.net/contest/372640)|284|28|6|7|6|7|2020-05-07|
 [2019 Multi-University Training Contest 10 [Cloned]](https://vjudge.net/contest/374342)|719|71|4|5|3|4|2020-05-17|
