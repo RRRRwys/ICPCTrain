@@ -20,3 +20,4 @@ Item|补[2h]| 拉[2h] |拉[2h] |拉[2h] |补[2h] | 可选[5h] | 可选[5h]
 [2019 Multi-University Training Contest 10 [Cloned]](https://vjudge.net/contest/374342)|719|71|4|5|3|4|2020-05-17|
 [2019-2020 ICPC Asia Taipei-Hsinchu Regional Contest [Cloned]](https://vjudge.net/contest/380832)|108|10|8|9|6|[CDEHJK]+[AL]|2020-07-02|
 [2017-2018 ACM-ICPC German Collegiate Programming Contest (GCPC 2017) [Cloned]](https://vjudge.net/contest/384107)|77|7|7|8|7|[BCDEFGHIK]|2020-07-19|
+[2018 ACM-ICPC, Syrian Collegiate Programming Contest [Cloned]](https://vjudge.net/contest/385688)|73|7|6|6|8|[ABCDGHIK]|2020-07-26|
