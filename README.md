@@ -16,6 +16,7 @@ git 使用说明
 7. git commit -m "my first commit" #提交并备注提交信息
 8. git push origin master #将本地提交推送到远程仓库，master可替换位其他分支
 9. 新建分支：
+    - 进入git仓库所在的目录
     - git branch # 查看当前目录的分支
     - git branch test # 新建test分支
     - git push origin test # 将分支push到仓库
