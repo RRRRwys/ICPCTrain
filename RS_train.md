@@ -23,3 +23,4 @@ Item|补[2h]| 拉[2h] |拉[2h] |拉[2h] |补[2h] | 可选[5h] | 可选[5h]
 9 | [2020 UP ACM Algolympics Final Round [Cloned]](https://vjudge.net/contest/387133)|-|-|-|-|6|[ABDEIKL]|2020-08-02|
 10| [2019 ICPC Asia Danang Regional Contest [Cloned]](https://vjudge.net/contest/388392)|112|11|7|7|5|[ADFGMI]|2020-08-09|
 11| [[NWPU2020]组队练习赛1](https://vjudge.net/contest/390379)|95|9|8|9|7|[ABCFGIK]|2020-08-21|
+12| [[NWPU2020]组队练习赛2](https://vjudge.net/contest/390606)|116|11|7|7|6|[ACEFGHI]|2020-08-22|
