@@ -24,3 +24,5 @@ Item|补[2h]| 拉[2h] |拉[2h] |拉[2h] |补[2h] | 可选[5h] | 可选[5h]
 10| [2019 ICPC Asia Danang Regional Contest [Cloned]](https://vjudge.net/contest/388392)|112|11|7|7|5|[ADFGMI]|2020-08-09|
 11| [[NWPU2020]组队练习赛1](https://vjudge.net/contest/390379)|95|9|8|9|7|[ABCFGIK]|2020-08-21|
 12| [[NWPU2020]组队练习赛2](https://vjudge.net/contest/390606)|116|11|7|7|6|[ACEFGHI]|2020-08-22|
+13| [[NWPU2020]组队排位赛1](https://vjudge.net/contest/390836)|840|84|4|5|2|[DI]+[E]|2020-08-24|
+14| [[NWPU2020]组队排位赛2](https://vjudge.net/contest/391070)|820|82|5|6|3|[AEFJL]|2020-08-24|
