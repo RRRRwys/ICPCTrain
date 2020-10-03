@@ -28,6 +28,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 14| [[NWPU2020]组队排位赛2](https://vjudge.net/contest/391070)|820|82|5|6|3|[AEFJL]|2020-08-25|
 15| [[NWPU2020]组队排位赛3](https://vjudge.net/contest/391199)|825|82|5|6|4|[DEGI]+[H]|2020-08-26|
 16| 2019 ICPC Asia Tehran Regional Contest |62| 6|7|7|6|[ABCIJKLD]|2020-10-02|
+17| 2019 ICPC Southeast USA Regional Contest |110| 11|6|7|6|[ACDGHIJ]|2020-10-03|
 
 ---
 
