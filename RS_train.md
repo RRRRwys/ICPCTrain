@@ -30,6 +30,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 16| 2019 ICPC Asia Tehran Regional Contest |62| 6|7|7|6|[ABCIJKLD]|2020-10-02|
 17| 2019 ICPC Southeast USA Regional Contest |110| 11|6|7|6|[ACDGHIJ]|2020-10-03|
 18| 2019 ICPC Mid-Central USA Regional Contest |119|11|6|7|8|[ABCDFHIJL]|2020-10-04|
+19| 2019 ICPC Taiwan National Contest for Private Universities|45|4|6|7|8|[ABCDEFGH]|2020-10-05|
 
 ---
 
