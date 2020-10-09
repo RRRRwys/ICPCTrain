@@ -36,9 +36,10 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 
 ## Micro Contest
 
-编号| 训练比赛 | ac+嘴 | 成员 |训练日期(YY-MM-DD(WeekID))
+编号| 训练比赛 | ac+嘴 | 成员 |训练日期(YY-MM-DD)
 :-:|:-:|:-:|:-:|:-:
-1 | [Codeforces Round #673 (Div. 2)](http://codeforces.com/contest/1417) | [ABCDE] | zyp,wys |2020-9-30(1)
+1 | [Codeforces Round #673 (Div. 2)](http://codeforces.com/contest/1417) | [ABCDE] | zyp,wys |2020-9-30|
+2 | [博弈](https://vjudge.net/contest/400157) | [ABDF]+[I] | zyp,wys,lsz |2020-10-9|
 
 ---
 
