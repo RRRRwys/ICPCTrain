@@ -41,6 +41,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 :-:|:-:|:-:|:-:|:-:
 1 | [Codeforces Round #673 (Div. 2)](http://codeforces.com/contest/1417) | [ABCDE] | zyp,wys |2020-9-30|
 2 | [博弈](https://vjudge.net/contest/400157) | [ABCDEFI] | zyp,wys,lsz |2020-10-9|
+3 | [Codeforces Global Round 11](http://codeforces.com/contest/1427) | [ABCDE] | zyp,wys,lsz | 2020-10-16|
 
 ---
 
