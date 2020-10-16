@@ -55,9 +55,9 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 标识：<(done)、<(todo)、<(doing)
 
 - 2-3h
-  - 博弈 | 补题 <(doing)
+  - 博弈 | 补题
   - micro Contest | 补题
-  - 数学/字符串 | 补题
+  - 数学/字符串 | 补题 <(to do)
   - micro Contest | 补题
   - 字符串/几何 | 补题
   - micro Contest | 补题
