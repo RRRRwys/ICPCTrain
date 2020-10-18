@@ -32,7 +32,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 18| 2019 ICPC Mid-Central USA Regional Contest |119|11|6|7|8|[ABCDFHIJL]|2020-10-04|
 19| 2019 ICPC Taiwan National Contest for Private Universities|45|4|6|7|8|[ABCDEFGH]|2020-10-05|
 20| [2019-2020 ICPC Asia Hong Kong Regional Contest](http://codeforces.com/gym/102452)|244|24|6|7|5|[ABDEGIJ]|2020-10-11|
-21| [2019-2020 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/102428)|315|31|6|7|7|[DFGIKLM]|2020-10-18|
+21| [2019-2020 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/102428)|315|31|6|7|7|[DEFGIKLM]|2020-10-18|
 
 ---
 
