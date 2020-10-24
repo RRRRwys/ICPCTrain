@@ -41,9 +41,9 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 编号| 训练比赛 | ac+嘴 | 成员 |训练日期(YY-MM-DD)
 :-:|:-:|:-:|:-:|:-:
 1 | [Codeforces Round #673 (Div. 2)](http://codeforces.com/contest/1417) | [ABCDE] | zyp,wys |2020-9-30|
-2 | [博弈](https://vjudge.net/contest/400157) | [ABCDEFI] | zyp,wys,lsz |2020-10-9|
+2 | [博弈](https://vjudge.net/contest/400157) | [ABCDEFHIJ] | zyp,wys,lsz |2020-10-9|
 3 | [Codeforces Global Round 11](http://codeforces.com/contest/1427) | [ABCDE] | zyp,wys,lsz | 2020-10-15|
-4 | [string + math](https://vjudge.net/contest/401955) | [BDGH] | zyp,wys,lsz | 2020-10-17|
+4 | [string + math](https://vjudge.net/contest/401955) | [BCDGH] | zyp,wys,lsz | 2020-10-17|
 5 | [Codeforces Raif Round 1 (Div. 1 + Div. 2)](http://codeforces.com/contest/1428) | [ABCDE] | zyp,wys | 2020-10-22 |
 
 ---
