@@ -46,7 +46,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 3 | [Codeforces Global Round 11](http://codeforces.com/contest/1427) | [ABCDE] | zyp,wys,lsz | 2020-10-15|
 4 | [string + math](https://vjudge.net/contest/401955) | [BCDGH] | zyp,wys,lsz | 2020-10-17|
 5 | [Codeforces Raif Round 1 (Div. 1 + Div. 2)](http://codeforces.com/contest/1428) | [ABCDE] | zyp,wys | 2020-10-22 |
-6 | [计算几何](https://vjudge.net/contest/404635) | [B] | zyp,wys | 2020-10-29 |
+6 | [计算几何](https://vjudge.net/contest/404635) | [BE] | zyp,wys | 2020-10-29 |
 
 ---
 
