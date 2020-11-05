@@ -34,7 +34,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 20| [2019-2020 ICPC Asia Hong Kong Regional Contest](http://codeforces.com/gym/102452)|244|24|6|7|5|[ABDEGIJ]|2020-10-11|
 21| [2019-2020 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/102428)|315|31|6|7|7|[DEFGIJKLM]|2020-10-18|
 22| [2020牛客国庆集训派对day8](https://ac.nowcoder.com/acm/contest/8523)|164|16|6|7|6|[ABCDEFGIJK]|2020-10-25|
-23| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲网上区域赛模拟赛](https://ac.nowcoder.com/acm/contest/8688)|673|67|5|6|6|[ABDEHI]|2020-10-31|
+23| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲网上区域赛模拟赛](https://ac.nowcoder.com/acm/contest/8688)|673|67|5|6|6|[ABDEFHI]|2020-10-31|
 
 ---
 
