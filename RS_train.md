@@ -35,7 +35,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 21| [2019-2020 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/102428)|315|31|6|7|7|[DEFGIJKLM]|2020-10-18|
 22| [2020牛客国庆集训派对day8](https://ac.nowcoder.com/acm/contest/8523)|164|16|6|7|6|[ABCDEFGIJK]|2020-10-25|
 23| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲网上区域赛模拟赛](https://ac.nowcoder.com/acm/contest/8688)|673|67|5|6|6|[ABDEFHI]|2020-10-31|
-24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[AGIKL]|2020-11-7|
+24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]|2020-11-7|
 
 ---
 
@@ -50,7 +50,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 5 | [Codeforces Raif Round 1 (Div. 1 + Div. 2)](http://codeforces.com/contest/1428) | [ABCDE] | zyp,wys | 2020-10-22 |
 6 | [计算几何](https://vjudge.net/contest/404635) | [BE] | zyp,wys | 2020-10-29 |
 7 | [Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)](http://codeforces.com/contest/1443)|[ABCDEF]|zyp,wys|2020-11-6|
-8 | [string+math 2](https://vjudge.net/contest/406557) | [] |zyp,wys|2020-11-8|
+8 | [string+math 2](https://vjudge.net/contest/406557) | [H] |zyp,wys|2020-11-8|
 
 ---
 
