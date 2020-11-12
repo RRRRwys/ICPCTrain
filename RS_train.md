@@ -10,8 +10,8 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 
 ## Std Contest
 
-编号 | 训练比赛 | 实际参赛队伍数 | 金排名 | 金最少题数 | 稳金题数 | 赛中ac数 | ac+嘴 | 训练日期
-:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+编号 | 训练比赛 | 实际参赛队伍数 | 金排名 | 金最少题数 | 稳金题数 | 赛中ac数 | ac+嘴 | 训练日期 | 补题
+:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 1 | [The 2018 ICPC Asia Yokohama Regional Contest [Cloned]](https://vjudge.net/contest/367661)|62|6|7|8|4|[ABCDEGJK]+[HF]|2020-04-12|
 2 | [2019-2020 ICPC, NERC, Southern and Volga Russian Regional Contest [Cloned]](https://vjudge.net/contest/369006)|727|72|8|9|8|[ABCFHJLN]+[G]|2020-04-18|
 3 | [The 2019 ICPC Asia Shanghai Regional Contest(重现赛)](https://ac.nowcoder.com/acm/contest/4370#question)|169|16|4|5|4|[BDEHK]|2020-05-01|
@@ -31,26 +31,26 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 17| 2019 ICPC Southeast USA Regional Contest |110| 11|6|7|6|[ACDGHIJ]|2020-10-03|
 18| 2019 ICPC Mid-Central USA Regional Contest |119|11|6|7|8|[ABCDFHIJL]|2020-10-04|
 19| 2019 ICPC Taiwan National Contest for Private Universities|45|4|6|7|8|[ABCDEFGH]|2020-10-05|
-20| [2019-2020 ICPC Asia Hong Kong Regional Contest](http://codeforces.com/gym/102452)|244|24|6|7|5|[ABDEGIJ]|2020-10-11|
+20| [2019-2020 ICPC Asia Hong Kong Regional Contest](http://codeforces.com/gym/102452)|244|24|6|7|5|[ABDEGIJ]|2020-10-11|doing|
 21| [2019-2020 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/102428)|315|31|6|7|7|[DEFGIJKLM]|2020-10-18|
 22| [2020牛客国庆集训派对day8](https://ac.nowcoder.com/acm/contest/8523)|164|16|6|7|6|[ABCDEFGIJK]|2020-10-25|
-23| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲网上区域赛模拟赛](https://ac.nowcoder.com/acm/contest/8688)|673|67|5|6|6|[ABDEFHI]|2020-10-31|
-24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]|2020-11-7|
+23| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲网上区域赛模拟赛](https://ac.nowcoder.com/acm/contest/8688)|673|67|5|6|6|[ABDEFHI]|2020-10-31|doing|
+24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]|2020-11-7|doing|
 
 ---
 
 ## Micro Contest
 
-编号| 训练比赛 | ac+嘴 | 成员 |训练日期(YY-MM-DD)
-:-:|:-:|:-:|:-:|:-:
+编号| 训练比赛 | ac+嘴 | 成员 |训练日期(YY-MM-DD) | 补题 |
+:-:|:-:|:-:|:-:|:-:|:-:
 1 | [Codeforces Round #673 (Div. 2)](http://codeforces.com/contest/1417) | [ABCDE] | zyp,wys |2020-9-30|
-2 | [博弈](https://vjudge.net/contest/400157) | [ABCDEFHIJ] | zyp,wys,lsz |2020-10-9|
+2 | [博弈](https://vjudge.net/contest/400157) | [ABCDEFHIJ] | zyp,wys,lsz |2020-10-9|doing|
 3 | [Codeforces Global Round 11](http://codeforces.com/contest/1427) | [ABCDE] | zyp,wys,lsz | 2020-10-15|
-4 | [string + math](https://vjudge.net/contest/401955) | [BCDGH] | zyp,wys,lsz | 2020-10-17|
+4 | [string + math](https://vjudge.net/contest/401955) | [BCDGH] | zyp,wys,lsz | 2020-10-17|doing|
 5 | [Codeforces Raif Round 1 (Div. 1 + Div. 2)](http://codeforces.com/contest/1428) | [ABCDE] | zyp,wys | 2020-10-22 |
-6 | [计算几何](https://vjudge.net/contest/404635) | [BE] | zyp,wys | 2020-10-29 |
+6 | [计算几何](https://vjudge.net/contest/404635) | [BE] | zyp,wys | 2020-10-29 |doing|
 7 | [Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)](http://codeforces.com/contest/1443)|[ABCDEF]|zyp,wys|2020-11-6|
-8 | [string+math 2](https://vjudge.net/contest/406557) | [H] |zyp,wys|2020-11-8|
+8 | [string+math 2](https://vjudge.net/contest/406557) | [H] |zyp,wys|2020-11-8|doing|
 
 ---
 
