@@ -31,11 +31,12 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 17| 2019 ICPC Southeast USA Regional Contest |110| 11|6|7|6|[ACDGHIJ]|2020-10-03|
 18| 2019 ICPC Mid-Central USA Regional Contest |119|11|6|7|8|[ABCDFHIJL]|2020-10-04|
 19| 2019 ICPC Taiwan National Contest for Private Universities|45|4|6|7|8|[ABCDEFGH]|2020-10-05|
-20| [2019-2020 ICPC Asia Hong Kong Regional Contest](http://codeforces.com/gym/102452)|244|24|6|7|5|[ABDEGIJ]|2020-10-11|doing|
+20| [2019-2020 ICPC Asia Hong Kong Regional Contest](http://codeforces.com/gym/102452)|244|24|6|7|5|[ABDEGIJK]|2020-10-11|doing|
 21| [2019-2020 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/102428)|315|31|6|7|7|[DEFGIJKLM]|2020-10-18|
 22| [2020牛客国庆集训派对day8](https://ac.nowcoder.com/acm/contest/8523)|164|16|6|7|6|[ABCDEFGIJK]|2020-10-25|
 23| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲网上区域赛模拟赛](https://ac.nowcoder.com/acm/contest/8688)|673|67|5|6|6|[ABDEFHI]|2020-10-31|doing|
 24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]|2020-11-7|doing|
+25| [2020 China Collegiate Programming Contest Qinhuangdao Site](http://codeforces.com/gym/102769)|343|34|5|6|5|[AEFGK]|2020-11-14|doing|
 
 ---
 
