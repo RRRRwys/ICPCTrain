@@ -37,6 +37,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 23| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲网上区域赛模拟赛](https://ac.nowcoder.com/acm/contest/8688)|673|67|5|6|6|[ABDEFHI]|2020-10-31|doing|
 24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]|2020-11-7|doing|
 25| [2020 China Collegiate Programming Contest Qinhuangdao Site](http://codeforces.com/gym/102769)|343|34|5|6|5|[AEFGKI]|2020-11-14|doing|
+26| [2018 China Collegiate Programming Contest - Guilin Site](https://vjudge.net/contest/407665)|195|19|5|6|6|[ADGHJL]|2020-11-21|doing|
 
 ---
 
