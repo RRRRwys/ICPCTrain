@@ -37,7 +37,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 23| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲网上区域赛模拟赛](https://ac.nowcoder.com/acm/contest/8688)|673|67|5|6|6|[ABDEFHI]|2020-10-31|doing|
 24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]|2020-11-7|doing|
 25| [2020 China Collegiate Programming Contest Qinhuangdao Site](http://codeforces.com/gym/102769)|343|34|5|6|5|[AEFGKI]|2020-11-14|doing|
-26| [2018 China Collegiate Programming Contest - Guilin Site](https://vjudge.net/contest/407665)|195|19|5|6|6|[ADGHJL]|2020-11-21|doing|
+26| [2018 China Collegiate Programming Contest - Guilin Site](https://vjudge.net/contest/407665)|195|19|5|6|6|[ACDGHJL]|2020-11-21|doing|
 
 ---
 
@@ -48,11 +48,11 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 1 | [Codeforces Round #673 (Div. 2)](http://codeforces.com/contest/1417) | [ABCDE] | zyp,wys |2020-9-30|
 2 | [博弈](https://vjudge.net/contest/400157) | [ABCDEFHIJ] | zyp,wys,lsz |2020-10-9|doing|
 3 | [Codeforces Global Round 11](http://codeforces.com/contest/1427) | [ABCDE] | zyp,wys,lsz | 2020-10-15|
-4 | [string + math](https://vjudge.net/contest/401955) | [ABCDGH]+[EF] | zyp,wys,lsz | 2020-10-17|doing|
+4 | [string + math](https://vjudge.net/contest/401955) | [ABCDEGH]+[F] | zyp,wys,lsz | 2020-10-17|doing|
 5 | [Codeforces Raif Round 1 (Div. 1 + Div. 2)](http://codeforces.com/contest/1428) | [ABCDE] | zyp,wys | 2020-10-22 |
 6 | [计算几何](https://vjudge.net/contest/404635) | [BE] | zyp,wys | 2020-10-29 |doing|
 7 | [Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)](http://codeforces.com/contest/1443)|[ABCDEF]|zyp,wys|2020-11-6|
-8 | [string+math 2](https://vjudge.net/contest/406557) | [H] |zyp,wys|2020-11-8|doing|
+8 | [string+math 2](https://vjudge.net/contest/406557) | [CEH] |zyp,wys|2020-11-8|doing|
 9 | [Codeforces Global Round 10](http://codeforces.com/contest/1392) | [ABCDE] | zyp,wys | 2020-11-17|
 
 ---
