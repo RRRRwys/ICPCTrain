@@ -54,6 +54,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 7 | [Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)](http://codeforces.com/contest/1443)|[ABCDEF]|zyp,wys|2020-11-6|
 8 | [string+math 2](https://vjudge.net/contest/406557) | [CEH] |zyp,wys|2020-11-8|doing|
 9 | [Codeforces Global Round 10](http://codeforces.com/contest/1392) | [ABCDE] | zyp,wys | 2020-11-17|
+10| [Codeforces Round #685 (Div. 2)](http://codeforces.com/contest/1451) | [ABCDE] | zyp,wys | 2020-11-24|
 
 ---
 
