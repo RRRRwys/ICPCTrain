@@ -38,7 +38,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]|2020-11-7|doing|
 25| [2020 China Collegiate Programming Contest Qinhuangdao Site](http://codeforces.com/gym/102769)|343|34|5|6|5|[AEFGKI]|2020-11-14|doing|
 26| [2018 China Collegiate Programming Contest - Guilin Site](https://vjudge.net/contest/407665)|195|19|5|6|6|[ABCDGHJL]|2020-11-21|
-27| [2017中国大学生程序设计竞赛-哈尔滨站](https://vjudge.net/contest/409541)|184|18|6|7|6|[ABDFHLM]|2020-11-27|
+27| [2017中国大学生程序设计竞赛-哈尔滨站](https://vjudge.net/contest/409541)|184|18|6|7|6|[ABDFHLM]|2020-11-27|doing|
 
 ---
 
