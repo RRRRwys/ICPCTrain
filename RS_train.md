@@ -39,6 +39,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 25| [2020 China Collegiate Programming Contest Qinhuangdao Site](http://codeforces.com/gym/102769)|343|34|5|6|5|[AEFGKI]|2020-11-14|doing|
 26| [2018 China Collegiate Programming Contest - Guilin Site](https://vjudge.net/contest/407665)|195|19|5|6|6|[ABCDGHJL]|2020-11-21|
 27| [2017中国大学生程序设计竞赛-哈尔滨站](https://vjudge.net/contest/409541)|184|18|6|7|6|[ABDFHLM]|2020-11-27|doing|
+28| [2020 China Collegiate Programming Contest - Mianyang Site](https://codeforces.com/gym/102822)|308|30|5|6|4|[DJKL]|2020-11-28|doing|
 
 ---
 
@@ -61,7 +62,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 
 ## 训练内容及状态
 
-当前欠 K = 1
+当前欠 K = 0
 
 下面对后续每周的训练内容进一步规划：
 
