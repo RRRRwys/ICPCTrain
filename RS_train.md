@@ -40,7 +40,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 26| [2018 China Collegiate Programming Contest - Guilin Site](https://vjudge.net/contest/407665)|195|19|5|6|6|[ABCDGHJL]|2020-11-21|
 27| [2017中国大学生程序设计竞赛-哈尔滨站](https://vjudge.net/contest/409541)|184|18|6|7|6|[ABDFHJLM]|2020-11-27|doing|
 28| [2020 China Collegiate Programming Contest - Mianyang Site](https://codeforces.com/gym/102822)|308|30|5|6|4|[DGJKL]|2020-11-28|doing|
-29| [The 2017 China Collegiate Programming Contest, Hangzhou Site](https://vjudge.net/contest/411055)|188|18|7|8|6|[ABCDJK]|2020-12-5|doing|
+29| [The 2017 China Collegiate Programming Contest, Hangzhou Site](https://vjudge.net/contest/411055)|188|18|7|8|6|[ABCDJKL]|2020-12-5|doing|
 
 ---
 
