@@ -42,6 +42,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 28| [2020 China Collegiate Programming Contest - Mianyang Site](https://codeforces.com/gym/102822)|308|30|5|6|4|[DGJKL]|2020-11-28|doing|
 29| [The 2017 China Collegiate Programming Contest, Hangzhou Site](https://vjudge.net/contest/411055)|188|18|7|8|6|[ABCDEGJKL]|2020-12-5|doing|
 30| [2016 CCPC Hangzhou Onsite](https://vjudge.net/contest/411056)|179|17|7|8|5|[ABCDEFJK]|2020-12-6|doing|
+31| [2019 ICPC Asia-East Continent Final](http://codeforces.com/gym/102471)|383|35|5|6|4|[AEHM]|2020-12-12|doing|
 
 ---
 
