@@ -54,7 +54,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 1 | [Codeforces Round #673 (Div. 2)](http://codeforces.com/contest/1417) | [ABCDE] | zyp,wys |2020-9-30|
 2 | [博弈](https://vjudge.net/contest/400157) | [ABCDEFHIJ] | zyp,wys,lsz |2020-10-9|doing|
 3 | [Codeforces Global Round 11](http://codeforces.com/contest/1427) | [ABCDE] | zyp,wys,lsz | 2020-10-15|
-4 | [string + math](https://vjudge.net/contest/401955) | [ABCDEGH]+[F] | zyp,wys,lsz | 2020-10-17|doing|
+4 | [string + math](https://vjudge.net/contest/401955) | [ABCDEGH]+[F] | zyp,wys,lsz | 2020-10-17|
 5 | [Codeforces Raif Round 1 (Div. 1 + Div. 2)](http://codeforces.com/contest/1428) | [ABCDE] | zyp,wys | 2020-10-22 |
 6 | [计算几何](https://vjudge.net/contest/404635) | [BE] | zyp,wys | 2020-10-29 |doing|
 7 | [Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)](http://codeforces.com/contest/1443)|[ABCDEF]|zyp,wys|2020-11-6|
@@ -100,6 +100,10 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 - 把题目和做法互相讲一下，可线上可线下，目的是其他人听懂
 - 不要求ac，最低要求是看懂题解，并且能给别人讲懂
 - 维护一个列表，标注难度、简单题解、是否ac、是否需要复习
+- 保持每周至少一场5h的Std Contest
+- 保持周内补题(酌情可嘴)
+- 不定期专题训练(酌情可嘴) 权重为 A：解决近期弱项
+- 不定期CF打团，权重为 B：保持比赛手感
 
 ---
 
