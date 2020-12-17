@@ -63,6 +63,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 10| [Codeforces Round #685 (Div. 2)](http://codeforces.com/contest/1451) | [ABCDE] | zyp,wys | 2020-11-24|
 11| [Educational Codeforces Round 99 (Rated for Div. 2)](http://codeforces.com/contest/1455) | [ABCDE] | zyp,wys | 2020-12-3|
 12| [博弈2](https://vjudge.net/contest/412679) | [BF] | zyp,wys | 2020-12-10 |doing|
+13| [Codeforces Round #688 (Div. 2)](https://codeforces.com/contest/1453)| [ABCD] | zyp,wys | 2020-12-17 |
 
 ---
 
