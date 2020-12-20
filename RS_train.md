@@ -44,6 +44,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 30| [2016 CCPC Hangzhou Onsite](https://vjudge.net/contest/411056)|179|17|7|8|5|[ABCDEFJK]|2020-12-6|doing|
 31| [2019 ICPC Asia-East Continent Final](http://codeforces.com/gym/102471)|383|35|5|6|4|[ACEGHM]|2020-12-12|doing|
 32| [2016 CCPC Hefei Onsite](https://vjudge.net/contest/412286)|148|14|6|7|7|[ACDEGHIJ]|2020-12-13|doing|
+33| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（南京）](https://ac.nowcoder.com/acm/contest/10272)|543|35|6|7|5|[EFHKL]|2020-12-20|doing|
 
 ---
 
@@ -64,6 +65,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 11| [Educational Codeforces Round 99 (Rated for Div. 2)](http://codeforces.com/contest/1455) | [ABCDE] | zyp,wys | 2020-12-3|
 12| [博弈2](https://vjudge.net/contest/412679) | [BF] | zyp,wys | 2020-12-10 |doing|
 13| [Codeforces Round #688 (Div. 2)](https://codeforces.com/contest/1453)| [ABCD] | zyp,wys | 2020-12-17 |
+14| [Educational Codeforces Round 100 (Rated for Div. 2)](https://codeforces.com/contest/1463)| [ABCD] | zyp,wys | 2020-12-19 |
 
 ---
 
