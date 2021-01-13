@@ -57,7 +57,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 3 | [Codeforces Global Round 11](http://codeforces.com/contest/1427) | [ABCDE] | zyp,wys,lsz | 2020-10-15|
 4 | [string + math](https://vjudge.net/contest/401955) | [ABCDEGH]+[F] | zyp,wys,lsz | 2020-10-17|
 5 | [Codeforces Raif Round 1 (Div. 1 + Div. 2)](http://codeforces.com/contest/1428) | [ABCDE] | zyp,wys | 2020-10-22 |
-6 | [计算几何](https://vjudge.net/contest/404635) | [BE] | zyp,wys | 2020-10-29 |doing|
+6 | [计算几何](https://vjudge.net/contest/404635) | [BE]+[A] | zyp,wys | 2020-10-29 |doing|
 7 | [Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)](http://codeforces.com/contest/1443)|[ABCDEF]|zyp,wys|2020-11-6|
 8 | [string+math 2](https://vjudge.net/contest/406557) | [CEH] |zyp,wys|2020-11-8|doing|
 9 | [Codeforces Global Round 10](http://codeforces.com/contest/1392) | [ABCDE] | zyp,wys | 2020-11-17|
@@ -90,6 +90,11 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 
 ## 第二阶段
 
+### Problem List
+
+格式：题号，主观难度1-3，分数，是否ac，是否复习，一句话题解
+[Problem List](./problem_list.md)
+
 ### 具体安排
 
 - 训练目标是堆题量，提思维速度
@@ -117,9 +122,9 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 
 - 暂定计划：
   - 周内
-    - 隔周 CF / 专题 / 补专题题目(权重为 A)
+    - 隔周专题 / 补专题题目 / 复习老题
     - 每周补 Std Contest 题目
-    - 每周嘴题大会 / 嘴题交流大会(带权)
+    - 每周嘴题大会 / 嘴题交流大会：发布每天通过的题目，格式：“题号，主观难度1-3，分数，是否ac，是否复习，一句话题解”
   - 周末
     - Std Contest
     - 嘴题大会 / 嘴题交流大会：补欠的X分数
