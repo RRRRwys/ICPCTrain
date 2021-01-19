@@ -45,6 +45,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 31| [2019 ICPC Asia-East Continent Final](http://codeforces.com/gym/102471)|383|35|5|6|4|[ACEGHM]|2020-12-12|doing|
 32| [2016 CCPC Hefei Onsite](https://vjudge.net/contest/412286)|148|14|6|7|7|[ACDEGHIJ]|2020-12-13|doing|
 33| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（南京）](https://ac.nowcoder.com/acm/contest/10272)|543|35|6|7|5|[EFHKL]|2020-12-20|doing|
+34| [2020-2021 ACM-ICPC, Asia Seoul Regional Contest](https://codeforces.com/gym/102920)|59|5|9|10|8|[BCEGHIJL]|2021-1-19|doing|
 
 ---
 
