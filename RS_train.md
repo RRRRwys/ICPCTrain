@@ -112,7 +112,11 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 - 维护一个列表，标注难度、简单题解、是否 ac 、是否需要复习
 - 保持每周至少一场5h的 Std Contest
   - 2020CCPC的长春站、威海站，ICPC的上海站、济南站，这几场留着先不做，用来测试水平，1月底做2场，二月底三月初做2场
-  - 日常打多校或者gym
+  - 日常打
+    - 2020 CCPC Wannafly Winter Camp - cometoj
+    - 2020 CCPC Wannafly Winter Camp - nowcoder
+    - Multi-University Training Contest
+    - gyms
 - 保持周内补题(酌情可嘴)
 - 不定期专题训练(酌情可嘴)：解决近期弱项
 - 不定期CF打团：保持比赛手感
