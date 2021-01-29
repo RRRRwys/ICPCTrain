@@ -35,11 +35,11 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 21| [2019-2020 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/102428)|315|31|6|7|7|[DEFGIJKLM]|2020-10-18|
 22| [2020牛客国庆集训派对day8](https://ac.nowcoder.com/acm/contest/8523)|164|16|6|7|6|[ABCDEFGIJK]|2020-10-25|
 23| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲网上区域赛模拟赛](https://ac.nowcoder.com/acm/contest/8688)|673|67|5|6|6|[ABDEFHIJ]|2020-10-31|
-24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]|2020-11-7|doing|
+24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]+[C]|2020-11-7|doing|
 25| [2020 China Collegiate Programming Contest Qinhuangdao Site](http://codeforces.com/gym/102769)|343|34|5|6|5|[AEFGKI]|2020-11-14|doing|
 26| [2018 China Collegiate Programming Contest - Guilin Site](https://vjudge.net/contest/407665)|195|19|5|6|6|[ABCDGHJL]|2020-11-21|
 27| [2017中国大学生程序设计竞赛-哈尔滨站](https://vjudge.net/contest/409541)|184|18|6|7|6|[ABDFHJLM]|2020-11-27|doing|
-28| [2020 China Collegiate Programming Contest - Mianyang Site](https://codeforces.com/gym/102822)|308|30|5|6|4|[DGJKL]|2020-11-28|doing|
+28| [2020 China Collegiate Programming Contest - Mianyang Site](https://codeforces.com/gym/102822)|308|30|5|6|4|[CDGJKL]|2020-11-28|doing|
 29| [The 2017 China Collegiate Programming Contest, Hangzhou Site](https://vjudge.net/contest/411055)|188|18|7|8|6|[ABCDEGJKL]|2020-12-5|doing|
 30| [2016 CCPC Hangzhou Onsite](https://vjudge.net/contest/411056)|179|17|7|8|5|[ABCDEFJK]|2020-12-6|doing|
 31| [2019 ICPC Asia-East Continent Final](http://codeforces.com/gym/102471)|383|35|5|6|4|[ACEGHM]|2020-12-12|doing|
