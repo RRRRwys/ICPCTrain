@@ -47,7 +47,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 33| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（南京）](https://ac.nowcoder.com/acm/contest/10272)|543|35|6|7|5|[EFHKL]|2020-12-20|doing|
 34| [2020-2021 ACM-ICPC, Asia Seoul Regional Contest](https://codeforces.com/gym/102920)|59|5|9|10|8|[ABCEFGHIJKL]|2021-1-19|doing|
 35| [2020 CCPC Wannafly Winter Camp Day1 Div.1&2](https://ac.nowcoder.com/acm/contest/12115)|187|18|3|4|6|[ABCFGHI]|2021-2-7||
-36| [2020-2021 ICPC - Gran Premio de Mexico - Repechaje](http://codeforces.com/gym/102966)|-| -|-|-|-|[ABCEFGJKLMN]|2021-3-2||
+36| [2020-2021 ICPC - Gran Premio de Mexico - Repechaje](http://codeforces.com/gym/102966)|-|-|-|-|11|[ABCEFGJKLMN]|2021-3-2||
 
 ---
 
