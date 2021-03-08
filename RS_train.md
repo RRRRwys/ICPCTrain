@@ -11,7 +11,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 ## Std Contest
 
 编号 | 训练比赛 | 实际参赛队伍数 | 金排名 | 金最少题数 | 稳金题数 | 赛中ac数 | ac+嘴 | 训练日期 | 补题
-:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+:---|:---|:---|:---|:---|:---|:---|:---|:---|:---
 1 | [The 2018 ICPC Asia Yokohama Regional Contest [Cloned]](https://vjudge.net/contest/367661)|62|6|7|8|4|[ABCDEGJK]+[HF]|2020-04-12|
 2 | [2019-2020 ICPC, NERC, Southern and Volga Russian Regional Contest [Cloned]](https://vjudge.net/contest/369006)|727|72|8|9|8|[ABCFHJLN]+[G]|2020-04-18|
 3 | [The 2019 ICPC Asia Shanghai Regional Contest(重现赛)](https://ac.nowcoder.com/acm/contest/4370#question)|169|16|4|5|4|[BDEHK]|2020-05-01|
@@ -55,7 +55,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 ## Micro Contest
 
 编号| 训练比赛 | ac+嘴 | 成员 |训练日期(YY-MM-DD) | 补题 |
-:-:|:-:|:-:|:-:|:-:|:-:
+:---|:---|:---|:---|:---|:---
 1 | [Codeforces Round #673 (Div. 2)](http://codeforces.com/contest/1417) | [ABCDE] | zyp,wys |2020-9-30|
 2 | [博弈](https://vjudge.net/contest/400157) | [ABCDEFHIJ] | zyp,wys,lsz |2020-10-9|doing|
 3 | [Codeforces Global Round 11](http://codeforces.com/contest/1427) | [ABCDE] | zyp,wys,lsz | 2020-10-15|
