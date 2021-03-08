@@ -48,7 +48,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 34| [2020-2021 ACM-ICPC, Asia Seoul Regional Contest](https://codeforces.com/gym/102920)|59|5|9|10|8|[ABCEFGHIJKL]|2021-1-19|doing|
 35| [2020 CCPC Wannafly Winter Camp Day1 Div.1&2](https://ac.nowcoder.com/acm/contest/12115)|187|18|3|4|6|[ABCFGHI]|2021-2-7||
 36| [2020-2021 ICPC - Gran Premio de Mexico - Repechaje](http://codeforces.com/gym/102966)|-|-|-|-|11|[ABCEFGJKLMN]|2021-3-2||
-37| [2020-2021 Winter Petrozavodsk Camp, Day 9 Contest (XXI Open Cup, Grand Prix of Suwon)](http://codeforces.com/gym/102979)|139|13|8|8|2|[FIJ]|2021-3-7|doing|
+37| [2020-2021 Winter Petrozavodsk Camp, Day 9 Contest (XXI Open Cup, Grand Prix of Suwon)](http://codeforces.com/gym/102979)|139|13|8|8|2|[AFIJ]|2021-3-7|doing|
 
 ---
 
@@ -103,6 +103,13 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 - 每天我问明天啥时候有空
 - 继续像之前一样记录欠的K值，欠的尽量周天补
 - 强度有点大，看具体情况再调整吧
+
+|item | status|
+|:---:|:---|
+补题  | ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周内5h| ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+自定义| ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周末5h| ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 
 ---
 
