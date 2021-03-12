@@ -39,7 +39,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 25| [2020 China Collegiate Programming Contest Qinhuangdao Site](http://codeforces.com/gym/102769)|343|34|5|6|5|[AEFGHIJK]|2020-11-14||
 26| [2018 China Collegiate Programming Contest - Guilin Site](https://vjudge.net/contest/407665)|195|19|5|6|6|[ABCDGHJL]|2020-11-21|
 27| [2017中国大学生程序设计竞赛-哈尔滨站](https://vjudge.net/contest/409541)|184|18|6|7|6|[ABDFHKJLM]|2020-11-27||
-28| [2020 China Collegiate Programming Contest - Mianyang Site](https://codeforces.com/gym/102822)|308|30|5|6|4|[CDGHJKL]|2020-11-28|doing|
+28| [2020 China Collegiate Programming Contest - Mianyang Site](https://codeforces.com/gym/102822)|308|30|5|6|4|[CDEGHJKL]|2020-11-28||
 29| [The 2017 China Collegiate Programming Contest, Hangzhou Site](https://vjudge.net/contest/411055)|188|18|7|8|6|[ABCDEGHJKL]|2020-12-5||
 30| [2016 CCPC Hangzhou Onsite](https://vjudge.net/contest/411056)|179|17|7|8|5|[ABCDEFIJK]|2020-12-6|doing|
 31| [2019 ICPC Asia-East Continent Final](http://codeforces.com/gym/102471)|383|35|5|6|4|[ACDEGHM]|2020-12-12|doing|
@@ -49,7 +49,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 35| [2020 CCPC Wannafly Winter Camp Day1 Div.1&2](https://ac.nowcoder.com/acm/contest/12115)|187|18|3|4|6|[ABCFGHI]|2021-2-7||
 36| [2020-2021 ICPC - Gran Premio de Mexico - Repechaje](http://codeforces.com/gym/102966)|-|-|-|-|11|[ABCEFGJKLMN]|2021-3-2||
 37| [2020-2021 Winter Petrozavodsk Camp, Day 9 Contest (XXI Open Cup, Grand Prix of Suwon)](http://codeforces.com/gym/102979)|139|13|8|8|2|[AFIJ]|2021-3-7|doing|
-38| [2020 CCPC Wannafly Winter Camp Day2 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/12879)|115|11|6|7|5|[ACEFH]|2021-3-10|doing|
+38| [2020 CCPC Wannafly Winter Camp Day2 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/12879)|115|11|6|7|5|[ACEFHK]|2021-3-10|doing|
 
 ---
 
@@ -109,7 +109,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 |:---:|:---|
 补题  | ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-自定义| ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+自定义| ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 
 ---
