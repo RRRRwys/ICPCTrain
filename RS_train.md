@@ -108,10 +108,11 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 > - **contest waiting queue**
 >    - **normal**
 >      - https://codeforces.com/gym/102956
->      - https://codeforces.com/gym/102394
->      - 2020 CCPC Wannafly Winter Camp
+>      - 2020 CCPC Wannafly Winter Camp 3 5 6 7
+>      - 2019 China Collegiate Programming Contest Final (CCPC-Final 2019)
+>      - The 2019 China Collegiate Programming Contest Harbin Site
 >    - **hard**
->      - 2020 Multi-University Training Contest
+>      - 2020 Multi-University Training Contest 5 6 7 8 9 10
 >      - https://codeforces.com/gym/102984
 >      - https://codeforces.com/gym/102576
 >    - **real**
