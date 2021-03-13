@@ -104,6 +104,23 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 - 每天我问明天啥时候有空
 - 继续像之前一样记录欠的K值，欠的尽量周天补
 - 强度有点大，看具体情况再调整吧
+  
+> - **contest waiting queue**
+>    - **normal**
+>      - https://codeforces.com/gym/102956
+>      - https://codeforces.com/gym/102394
+>      - 2020 CCPC Wannafly Winter Camp
+>    - **hard**
+>      - 2020 Multi-University Training Contest
+>      - https://codeforces.com/gym/102984
+>      - https://codeforces.com/gym/102576
+>    - **real**
+>      - 2020 China Collegiate Programming Contest Changchun Onsite
+>      - 2020 China Collegiate Programming Contest, Weihai Site
+>      - 2020 ICPC Shanghai Site
+>      - 2020 ICPC Jinan https://ac.nowcoder.com/acm/contest/10662
+>      - 2020 ICPC 小米邀请赛 https://ac.nowcoder.com/acm/contest/9328
+
 
 |item | status|
 |:---:|:---|
