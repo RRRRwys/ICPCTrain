@@ -104,13 +104,14 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 - 每天我问明天啥时候有空
 - 继续像之前一样记录欠的K值，欠的尽量周天补
 - 强度有点大，看具体情况再调整吧
-  
+ 
 > - **contest waiting queue**
 >    - **normal**
 >      - https://codeforces.com/gym/102956
 >      - 2020 CCPC Wannafly Winter Camp 3 5 6 7
 >      - 2019 China Collegiate Programming Contest Final (CCPC-Final 2019)
 >      - The 2019 China Collegiate Programming Contest Harbin Site
+>      - other gym contest
 >    - **hard**
 >      - 2020 Multi-University Training Contest 5 6 7 8 9 10
 >      - https://codeforces.com/gym/102984
@@ -122,6 +123,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 >      - 2020 ICPC Jinan https://ac.nowcoder.com/acm/contest/10662
 >      - 2020 ICPC 小米邀请赛 https://ac.nowcoder.com/acm/contest/9328
 
+- 每周1场normal、一场hard，看情况使用real，尽量保证real里的比赛三人凑齐、9:00开始、认真打
 
 |item | status|
 |:---:|:---|
