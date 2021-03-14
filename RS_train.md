@@ -114,7 +114,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 >      - The 2019 China Collegiate Programming Contest Harbin Site
 >      - other gym contest
 >    - **hard**
->      - 2020 Multi-University Training Contest 5 6 7 8 9 10
+>      - 2020 Multi-University Training Contest 5 6 7 9 10
 >      - https://codeforces.com/gym/102984
 >      - https://codeforces.com/gym/102576
 >    - **real**
