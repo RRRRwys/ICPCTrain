@@ -51,6 +51,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 37| [2020-2021 Winter Petrozavodsk Camp, Day 9 Contest (XXI Open Cup, Grand Prix of Suwon)](http://codeforces.com/gym/102979)|139|13|8|8|2|[ACFIJ]|2021-3-7|doing|
 38| [2020 CCPC Wannafly Winter Camp Day2 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/12879)|115|11|6|7|5|[ABCEFHK]|2021-3-10|doing|
 39| [2020 Multi-University Training Contest 8 [Cloned]](https://vjudge.net/contest/427415)|717|71|5|6|4|[CDFHI]|2021-3-14|doing|
+40| [2020 ICPC·小米邀请赛 决赛（重现赛）](https://ac.nowcoder.com/acm/contest/13219)|102|10|6|7|2|[GK]|2021-3-17|doing|
 
 ---
 
@@ -114,7 +115,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 >      - The 2019 China Collegiate Programming Contest Harbin Site
 >      - other gym contest
 >    - **hard**
->      - 2020 Multi-University Training Contest 5 6 7 9 10
+>      - 2020 Multi-University Training Contest 5 6 7 ~~8~~ 9 10
 >      - https://codeforces.com/gym/102984
 >      - https://codeforces.com/gym/102576
 >    - **real**
@@ -122,14 +123,14 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 >      - 2020 China Collegiate Programming Contest, Weihai Site
 >      - 2020 ICPC Shanghai Site
 >      - 2020 ICPC Jinan https://ac.nowcoder.com/acm/contest/10662
->      - 2020 ICPC 小米邀请赛 https://ac.nowcoder.com/acm/contest/9328
+>      - ~~2020 ICPC 小米邀请赛 https://ac.nowcoder.com/acm/contest/9328~~
 
 - 每周1场normal、一场hard，看情况使用real，尽量保证real里的比赛三人凑齐、9:00开始、认真打
 
 |item | status|
 |:---:|:---|
-补题  | ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-周内5h| ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+补题  | ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周内5h| ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 
