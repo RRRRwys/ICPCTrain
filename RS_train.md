@@ -102,12 +102,12 @@
 > - **contest waiting queue**
 >    - **normal**
 >      - https://codeforces.com/gym/102956
->      - 2020 CCPC Wannafly Winter Camp 3 5 6 7
+>      - 2020 CCPC Wannafly Winter Camp 6 7 3 5 
 >      - 2019 China Collegiate Programming Contest Final (CCPC-Final 2019)
 >      - The 2019 China Collegiate Programming Contest Harbin Site
 >      - other gym contest
 >    - **hard**
->      - 2020 Multi-University Training Contest 5 6 7 ~~8~~ 9 10
+>      - 2020 Multi-University Training Contest 10 5 6 9 7 ~~8~~
 >      - https://codeforces.com/gym/102984
 >      - https://codeforces.com/gym/102576
 >    - **real**
