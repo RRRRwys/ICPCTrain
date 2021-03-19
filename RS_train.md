@@ -42,7 +42,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 28| [2020 China Collegiate Programming Contest - Mianyang Site](https://codeforces.com/gym/102822)|308|30|5|6|4|[CDEGHJKL]|2020-11-28||
 29| [The 2017 China Collegiate Programming Contest, Hangzhou Site](https://vjudge.net/contest/411055)|188|18|7|8|6|[ABCDEGHJKL]|2020-12-5||
 30| [2016 CCPC Hangzhou Onsite](https://vjudge.net/contest/411056)|179|17|7|8|5|[ABCDEFIJK]|2020-12-6|doing|
-31| [2019 ICPC Asia-East Continent Final](http://codeforces.com/gym/102471)|383|35|5|6|4|[ACDEGHM]|2020-12-12|doing|
+31| [2019 ICPC Asia-East Continent Final](http://codeforces.com/gym/102471)|383|35|5|6|4|[ACDEGHJM]|2020-12-12||
 32| [2016 CCPC Hefei Onsite](https://vjudge.net/contest/412286)|148|14|6|7|7|[ACDEGHIJ]|2020-12-13|doing|
 33| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（南京）](https://ac.nowcoder.com/acm/contest/10272)|543|35|6|7|5|[EFHKL]|2020-12-20|-|
 34| [2020-2021 ACM-ICPC, Asia Seoul Regional Contest](https://codeforces.com/gym/102920)|59|5|9|10|8|[ABCEFGHIJKL]|2021-1-19|doing|
@@ -51,7 +51,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 37| [2020-2021 Winter Petrozavodsk Camp, Day 9 Contest (XXI Open Cup, Grand Prix of Suwon)](http://codeforces.com/gym/102979)|139|13|8|8|2|[ACFIJ]|2021-3-7|doing|
 38| [2020 CCPC Wannafly Winter Camp Day2 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/12879)|115|11|6|7|5|[ABCEFHK]|2021-3-10|doing|
 39| [2020 Multi-University Training Contest 8 [Cloned]](https://vjudge.net/contest/427415)|717|71|5|6|4|[CDFHI]|2021-3-14|doing|
-40| [2020 ICPC·小米邀请赛 决赛（重现赛）](https://ac.nowcoder.com/acm/contest/13219)|102|10|6|7|2|[GJK]|2021-3-17|doing|
+40| [2020 ICPC·小米邀请赛 决赛（重现赛）](https://ac.nowcoder.com/acm/contest/13219)|102|10|6|7|2|[BGJKL]|2021-3-17|doing|
 
 ---
 
@@ -131,7 +131,7 @@ Item|[2-3h]| [2-3h] |[2-3h] |[2-3h] |[2-3h] | 可选[5h] | 可选[5h]
 |:---:|:---|
 补题  | ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-自定义| ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+自定义| ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 
 ---
