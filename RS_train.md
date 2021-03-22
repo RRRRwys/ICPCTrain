@@ -105,6 +105,7 @@
 >      - https://codeforces.com/gym/102956
 >      - 2020 CCPC Wannafly Winter Camp 6 7 3 5 
 >      - 2019 China Collegiate Programming Contest Final (CCPC-Final 2019)
+>      - 2019 China Collegiate Programming Contest Qinhuangdao Onsite
 >      - ~~The 2019 China Collegiate Programming Contest Harbin Site~~
 >      - other gym contest
 >    - **hard**
@@ -115,6 +116,7 @@
 >      - 2020 China Collegiate Programming Contest Changchun Onsite
 >      - 2020 China Collegiate Programming Contest, Weihai Site
 >      - 2020 ICPC Shanghai Site
+> 
 >      - 2020 ICPC Jinan https://ac.nowcoder.com/acm/contest/10662
 >      - ~~2020 ICPC 小米邀请赛 https://ac.nowcoder.com/acm/contest/9328~~
 
@@ -122,7 +124,7 @@
 
 |item | status|
 |:---:|:---|
-补题  | ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+补题  | ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
