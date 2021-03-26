@@ -41,11 +41,11 @@
 35| [2020 CCPC Wannafly Winter Camp Day1 Div.1&2](https://ac.nowcoder.com/acm/contest/12115)|187|18|3|4|6|[ABCFGHI]|2021-2-7||
 36| [2020-2021 ICPC - Gran Premio de Mexico - Repechaje](http://codeforces.com/gym/102966)|-|-|-|-|11|[ABCEFGJKLMN]|2021-3-2||
 37| [2020-2021 Winter Petrozavodsk Camp, Day 9 Contest (XXI Open Cup, Grand Prix of Suwon)](http://codeforces.com/gym/102979)|139|13|8|8|2|[ACFIJ]|2021-3-7|doing|
-38| [2020 CCPC Wannafly Winter Camp Day2 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/12879)|115|11|6|7|5|[ABCEFHK]|2021-3-10|doing|
+38| [2020 CCPC Wannafly Winter Camp Day2 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/12879)|115|11|6|7|5|[ABCEFHIK]|2021-3-10|doing|
 39| [2020 Multi-University Training Contest 8 [Cloned]](https://vjudge.net/contest/427415)|717|71|5|6|4|[BCDFHIKL]|2021-3-14||
 40| [2020 ICPC·小米邀请赛 决赛（重现赛）](https://ac.nowcoder.com/acm/contest/13219)|102|10|6|7|2|[BGJKL]+[I]|2021-3-17|doing|
 41| [The 2019 China Collegiate Programming Contest Harbin Site](https://codeforces.com/gym/102394)|272|27|6|7|6|[ACEFIJKL]|2021-3-20|doing|
-42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[EGIJ]|2021-3-24|doing|
+42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[DEGIJ]|2021-3-24|doing|
 
 ---
 
