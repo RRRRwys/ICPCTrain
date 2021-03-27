@@ -115,7 +115,7 @@
 >      - https://codeforces.com/gym/102576
 >    - **real**
 >      - 2020 China Collegiate Programming Contest Changchun Onsite
->      - 2020 China Collegiate Programming Contest, Weihai Site
+>      - ~~2020 China Collegiate Programming Contest, Weihai Site~~
 >      - 2020 ICPC Shanghai Site
 >      - 2020 ICPC Jinan https://ac.nowcoder.com/acm/contest/10662
 >      - ~~2020 ICPC 小米邀请赛 https://ac.nowcoder.com/acm/contest/9328~~
@@ -127,7 +127,7 @@
 补题  | ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-周末5h| ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周末5h| ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 
 ---
 
