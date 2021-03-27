@@ -46,6 +46,7 @@
 40| [2020 ICPC·小米邀请赛 决赛（重现赛）](https://ac.nowcoder.com/acm/contest/13219)|102|10|6|7|2|[BGJKL]+[I]|2021-3-17|doing|
 41| [The 2019 China Collegiate Programming Contest Harbin Site](https://codeforces.com/gym/102394)|272|27|6|7|6|[ACEFIJKL]|2021-3-20|doing|
 42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[DEGIJ]|2021-3-24|doing|
+43| [2020 China Collegiate Programming Contest, Weihai Site](https://codeforc.es/gym/102798)|383|35|6|7|4|[ACDHL]|2021-3-27|doing|
 
 ---
 
