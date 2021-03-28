@@ -47,6 +47,7 @@
 41| [The 2019 China Collegiate Programming Contest Harbin Site](https://codeforces.com/gym/102394)|272|27|6|7|6|[ACEFIJKL]|2021-3-20|doing|
 42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[DEGIJ]|2021-3-24|doing|
 43| [2020 China Collegiate Programming Contest, Weihai Site](https://codeforc.es/gym/102798)|383|35|6|7|4|[ACDGHL]|2021-3-27|doing|
+44| [2020-2021 Winter Petrozavodsk Camp, Belarusian SU Contest (XXI Open Cup, Grand Prix of Belarus)](https://codeforces.com/gym/102956)|143|14|11|12|6|[DEGIJM]|2021-3-28|doing|
 
 ---
 
@@ -122,7 +123,7 @@
  
 > - **contest waiting queue**
 >    - **normal**
->      - https://codeforces.com/gym/102956
+>      - ~~https://codeforces.com/gym/102956~~
 >      - 2020 CCPC Wannafly Winter Camp 6 7 3 5 
 >      - 2019 China Collegiate Programming Contest Final (CCPC-Final 2019)
 >      - ~~The 2019 China Collegiate Programming Contest Harbin Site~~
@@ -146,7 +147,7 @@
 补题  | ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-周末5h| ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周末5h| ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
 
 ---
 
