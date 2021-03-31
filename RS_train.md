@@ -48,6 +48,7 @@
 42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[DEGIJ]|2021-3-24|doing|
 43| [2020 China Collegiate Programming Contest, Weihai Site](https://codeforc.es/gym/102798)|383|35|6|7|4|[ACDGHL]|2021-3-27|doing|
 44| [2020-2021 Winter Petrozavodsk Camp, Belarusian SU Contest (XXI Open Cup, Grand Prix of Belarus)](https://codeforces.com/gym/102956)|143|14|11|12|6|[CDEGIJM]|2021-3-28|doing|
+45| [2020 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/430690)|548|35|3|4|2|[ABG]|2021-3-31|doing|
 
 ---
 
@@ -145,7 +146,7 @@
 |item | status|
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
-周内5h| ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周内5h| ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
 
