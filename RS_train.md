@@ -130,7 +130,7 @@
 >      - ~~The 2019 China Collegiate Programming Contest Harbin Site~~
 >      - other gym contest
 >    - **hard**
->      - 2020 Multi-University Training Contest 10 5 6 9 ~~7 8~~
+>      - 2020 Multi-University Training Contest 10 5 6 ~~9 7 8~~
 >      - https://codeforces.com/gym/102984
 >      - https://codeforces.com/gym/102576
 >    - **real**
