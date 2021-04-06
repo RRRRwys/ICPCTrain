@@ -71,6 +71,7 @@
 12| [博弈2](https://vjudge.net/contest/412679) | [BF] | zyp,wys | 2020-12-10 |doing|
 13| [Codeforces Round #688 (Div. 2)](https://codeforces.com/contest/1453)| [ABCD] | zyp,wys | 2020-12-17 |
 14| [Educational Codeforces Round 100 (Rated for Div. 2)](https://codeforces.com/contest/1463)| [ABCD] | zyp,wys | 2020-12-19 |
+15| [2019 GDUT Summer Team_up Training XIV [Cloned]](https://vjudge.net/contest/431879)|[ABDEFGHK]|zyp,wys|2021-4-6|
 
 ---
 
