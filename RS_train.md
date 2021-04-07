@@ -136,7 +136,7 @@
 >    - **hard**
 >      - 2020 Multi-University Training Contest 10 5 ~~6 9 7 8~~
 >      - https://codeforces.com/gym/102984
->      - https://codeforces.com/gym/102576
+>      - ~~https://codeforces.com/gym/102576~~
 >      - https://codeforces.com/gym/102916
 >      - https://codeforces.com/gym/102978
 >    - **real**
