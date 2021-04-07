@@ -50,6 +50,7 @@
 44| [2020-2021 Winter Petrozavodsk Camp, Belarusian SU Contest (XXI Open Cup, Grand Prix of Belarus)](https://codeforces.com/gym/102956)|143|14|11|12|6|[CDEGIJMN]|2021-3-28|doing|
 45| [2020 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/430690)|548|35|3|4|2|[ABG]|2021-3-31|doing|
 46| [2020 Multi-University Training Contest 6 [Cloned]](https://vjudge.net/contest/431358)|746|35|8|9|6|[ABEFGIJ]|2021-4-4|doing|
+47| [2020 Petrozavodsk Winter Camp, Jagiellonian U Contest](https://codeforces.com/gym/102576)|87|8|11|12|5|[BEGIL]|2021-4-7|doing|
 
 ---
 
