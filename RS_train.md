@@ -73,6 +73,7 @@
 13| [Codeforces Round #688 (Div. 2)](https://codeforces.com/contest/1453)| [ABCD] | zyp,wys | 2020-12-17 |
 14| [Educational Codeforces Round 100 (Rated for Div. 2)](https://codeforces.com/contest/1463)| [ABCD] | zyp,wys | 2020-12-19 |
 15| [2019 GDUT Summer Team_up Training XIV [Cloned]](https://vjudge.net/contest/431879)|[ABDEFGHK]|zyp,wys|2021-4-6|
+16| [ACM ICPC Brazil Subregional contest 2020-21 [Cloned]](https://vjudge.net/contest/432087)|[BFGHLLN]|lsz,wys|2021-4-7|
 
 ---
 
@@ -153,7 +154,7 @@
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
-自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
+自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
 
 ---
