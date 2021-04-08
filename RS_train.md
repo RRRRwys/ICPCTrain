@@ -45,7 +45,7 @@
 39| [2020 Multi-University Training Contest 8 [Cloned]](https://vjudge.net/contest/427415)|717|71|5|6|4|[BCDFHIKL]|2021-3-14||
 40| [2020 ICPC·小米邀请赛 决赛（重现赛）](https://ac.nowcoder.com/acm/contest/13219)|102|10|6|7|2|[BGJKL]+[I]|2021-3-17|doing|
 41| [The 2019 China Collegiate Programming Contest Harbin Site](https://codeforces.com/gym/102394)|272|27|6|7|6|[ACEFIJKL]|2021-3-20|doing|
-42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[DEGIJ]|2021-3-24|doing|
+42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[DEFGIJ]|2021-3-24|doing|
 43| [2020 China Collegiate Programming Contest, Weihai Site](https://codeforc.es/gym/102798)|383|35|6|7|4|[ACDGHL]|2021-3-27|doing|
 44| [2020-2021 Winter Petrozavodsk Camp, Belarusian SU Contest (XXI Open Cup, Grand Prix of Belarus)](https://codeforces.com/gym/102956)|143|14|11|12|6|[CDEGIJMN]|2021-3-28|doing|
 45| [2020 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/430690)|548|35|3|4|2|[ABG]|2021-3-31|doing|
