@@ -51,6 +51,7 @@
 45| [2020 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/430690)|548|35|3|4|2|[ABG]|2021-3-31|doing|
 46| [2020 Multi-University Training Contest 6 [Cloned]](https://vjudge.net/contest/431358)|746|35|8|9|6|[ABEFGHIJ]|2021-4-4|doing|
 47| [2020 Petrozavodsk Winter Camp, Jagiellonian U Contest](https://codeforces.com/gym/102576)|87|8|11|12|5|[BEGIL]|2021-4-7|doing|
+48| [2019 China Collegiate Programming Contest Final (CCPC-Final 2019)](https://codeforces.com/gym/102431)|120|12|5|5|4|[AIKL]|2021-4-10|doing|
 
 ---
 
