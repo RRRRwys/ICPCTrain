@@ -147,6 +147,7 @@
 >      - ~~2020 China Collegiate Programming Contest, Weihai Site~~
 >      - 2020 ICPC Shanghai Site
 >      - 2020 ICPC Jinan https://ac.nowcoder.com/acm/contest/10662
+>      - 2020 ICPC Kunming https://ac.nowcoder.com/acm/contest/14055
 >      - ~~2020 ICPC 小米邀请赛 https://ac.nowcoder.com/acm/contest/9328~~
 
 - 每周1场normal、一场hard，看情况使用real，尽量保证real里的比赛三人凑齐、9:00开始、认真打
