@@ -142,6 +142,7 @@
 >      - ~~https://codeforces.com/gym/102576~~
 >      - https://codeforces.com/gym/102916
 >      - https://codeforces.com/gym/102978
+>      - https://codeforces.com/gym/102994
 >    - **real**
 >      - 2020 China Collegiate Programming Contest Changchun Onsite
 >      - ~~2020 China Collegiate Programming Contest, Weihai Site~~
