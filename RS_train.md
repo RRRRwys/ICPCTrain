@@ -76,6 +76,7 @@
 14| [Educational Codeforces Round 100 (Rated for Div. 2)](https://codeforces.com/contest/1463)| [ABCD] | zyp,wys | 2020-12-19 |
 15| [2019 GDUT Summer Team_up Training XIV [Cloned]](https://vjudge.net/contest/431879)|[ABDEFGHK]|zyp,wys|2021-4-6|
 16| [ACM ICPC Brazil Subregional contest 2020-21 [Cloned]](https://vjudge.net/contest/432087)|[BFGHLLN]|lsz,wys|2021-4-7|
+17| [2016-2017 ACM-ICPC Asia-Bangkok Regional Contest](https://codeforces.com/gym/101161)|[BFGIL]|lsz,zyp,wys|2021-4-16|
 
 ---
 
@@ -115,6 +116,7 @@
 - 线段树 lazy 标记下传了吗
 - 线段树 build 了吗
 - 题读对了吗
+- ctrl+s 了吗
 
 ---
 
@@ -159,7 +161,7 @@
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐|
-自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐|
+自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐|
 
 ---
