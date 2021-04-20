@@ -53,6 +53,7 @@
 47| [2020 Petrozavodsk Winter Camp, Jagiellonian U Contest](https://codeforces.com/gym/102576)|87|8|11|12|5|[BEGIL]|2021-4-7|doing|
 48| [2019 China Collegiate Programming Contest Final (CCPC-Final 2019)](https://codeforces.com/gym/102431)|120|12|5|5|4|[AIKL]|2021-4-10|doing|
 49| [2020 China Collegiate Programming Contest Changchun Onsite](https://codeforces.com/gym/102832)|320|32|4|5|4|[ADFK]|2021-4-14|doing|
+50| 2020 ICPC Asia-East Continent Final|288|28|5|6|3|[FKL]|2021-4-18|doing|
 
 ---
 
