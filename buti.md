@@ -1,0 +1,31 @@
+- https://vjudge.net/contest/434647#problem/H
+- https://vjudge.net/contest/434647#problem/E
+- https://codeforces.com/gym/102832/problem/J
+- https://codeforces.com/gym/102832/problem/L
+- https://codeforces.com/gym/102832/problem/H
+- https://codeforces.com/gym/102832/problem/I
+- https://codeforces.com/gym/102431/problem/B
+- https://codeforces.com/gym/102431/problem/E
+- https://codeforces.com/gym/102431/problem/G
+- https://vjudge.net/contest/431358#problem/C
+- https://vjudge.net/contest/431358#problem/D
+- https://vjudge.net/contest/431358#problem/K
+- https://vjudge.net/contest/430690#problem/C
+- https://vjudge.net/contest/430690#problem/E
+- https://vjudge.net/contest/430690#problem/J
+- https://codeforces.com/gym/102798/problem/B
+- https://codeforces.com/gym/102798/problem/J
+- https://codeforces.com/gym/102798/problem/E
+- https://vjudge.net/contest/429253#problem/H
+- https://codeforces.com/gym/102394/problem/B
+- https://ac.nowcoder.com/acm/contest/13219/E
+- https://ac.nowcoder.com/acm/contest/13219/D
+- https://ac.nowcoder.com/acm/contest/13219/H
+- https://ac.nowcoder.com/acm/contest/12879/D
+- https://vjudge.net/contest/411056#problem/G
+- https://codeforces.com/gym/102055/problem/D
+- https://codeforces.com/gym/102055/problem/H
+
+---
+
+之前比赛的国内场次未AC题目中，按过题数选取至稳金题数+2
