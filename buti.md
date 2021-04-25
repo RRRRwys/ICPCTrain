@@ -1,3 +1,6 @@
+- https://vjudge.net/contest/435352#problem/G
+- https://vjudge.net/contest/435352#problem/E
+- https://vjudge.net/contest/435352#problem/F
 - https://vjudge.net/contest/434647#problem/H
 - https://vjudge.net/contest/434647#problem/E
 - ~~https://codeforces.com/gym/102832/problem/J~~

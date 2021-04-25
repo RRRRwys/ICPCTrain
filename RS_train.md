@@ -55,6 +55,7 @@
 49| [2020 China Collegiate Programming Contest Changchun Onsite](https://codeforces.com/gym/102832)|320|32|4|5|4|[ADFJKL]|2021-4-14|doing|
 50| 2020 ICPC Asia-East Continent Final|288|28|5|6|3|[FKL]|2021-4-18|doing|
 51| [2020 Multi-University Training Contest 5 [Cloned]](https://vjudge.net/contest/434647)|661|35|6|7|4|[ACGIL]|2021-4-21|doing|
+52| [2020 Multi-University Training Contest 10 [Cloned]](https://vjudge.net/contest/435352)|458|35|5|5|4|[CDJK]|2021-4-25|doing|
 
 ---
 
@@ -144,7 +145,7 @@
 >      - ~~The 2019 China Collegiate Programming Contest Harbin Site~~
 >      - other gym contest
 >    - **hard**
->      - 2020 Multi-University Training Contest 10 ~~5 6 9 7 8~~
+>      - ~~2020 Multi-University Training Contest 10 5 6 9 7 8~~
 >      - https://codeforces.com/gym/102984
 >      - ~~https://codeforces.com/gym/102576~~
 >      - https://codeforces.com/gym/102916
@@ -163,10 +164,10 @@
 
 |item | status|
 |:---:|:---|
-补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
-周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐|
-自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐|
-周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐|
+补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
+自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
+周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
 
 ---
 
