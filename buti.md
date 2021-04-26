@@ -11,7 +11,7 @@
 - https://codeforces.com/gym/102431/problem/E
 - https://codeforces.com/gym/102431/problem/G
 - https://vjudge.net/contest/431358#problem/C
-- https://vjudge.net/contest/431358#problem/D
+- ~~https://vjudge.net/contest/431358#problem/D~~
 - https://vjudge.net/contest/431358#problem/K
 - https://vjudge.net/contest/430690#problem/C
 - https://vjudge.net/contest/430690#problem/E
@@ -20,7 +20,7 @@
 - https://codeforces.com/gym/102798/problem/J
 - https://codeforces.com/gym/102798/problem/E
 - https://vjudge.net/contest/429253#problem/H
-- https://codeforces.com/gym/102394/problem/B
+- ~~https://codeforces.com/gym/102394/problem/B~~
 - https://ac.nowcoder.com/acm/contest/13219/E
 - https://ac.nowcoder.com/acm/contest/13219/D
 - https://ac.nowcoder.com/acm/contest/13219/H
