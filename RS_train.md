@@ -80,6 +80,7 @@
 15| [2019 GDUT Summer Team_up Training XIV [Cloned]](https://vjudge.net/contest/431879)|[ABDEFGHK]|zyp,wys|2021-4-6|
 16| [ACM ICPC Brazil Subregional contest 2020-21 [Cloned]](https://vjudge.net/contest/432087)|[BFGHLLN]|lsz,wys|2021-4-7|
 17| [2016-2017 ACM-ICPC Asia-Bangkok Regional Contest](https://codeforces.com/gym/101161)|[BEFGIL]|lsz,zyp,wys|2021-4-16|
+18| [The 14th Jilin Provincial Collegiate Programming Contest](https://codeforces.com/gym/102800)|[ABCDEFGHJL]|lsz,zyp,wys|2021-4-27|
 
 ---
 
@@ -166,7 +167,7 @@
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
-自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
+自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
 
 ---
