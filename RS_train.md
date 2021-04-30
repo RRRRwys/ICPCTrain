@@ -57,6 +57,7 @@
 51| [2020 Multi-University Training Contest 5 [Cloned]](https://vjudge.net/contest/434647)|661|35|6|7|4|[ACGIL]|2021-4-21|doing|
 52| [2020 Multi-University Training Contest 10 [Cloned]](https://vjudge.net/contest/435352)|458|35|5|5|4|[CDJK]|2021-4-25|doing|
 53| [2020-2021 ICPC Northwestern European Regional Programming Contest (NWERC 2020)](https://codeforces.com/gym/103049)|119|11|9|10|7|[ABCDEFGHIK]|2021-4-28|doing|
+54| [Samara Farewell Contest 2020 (XXI Open Cup, GP of Samara)](https://codeforces.com/gym/102916)|128|12|11|11|4|[BGJM]|2021-4-30|doing|
 
 ---
 
@@ -167,7 +168,7 @@
 |item | status|
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
-周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
+周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
 
