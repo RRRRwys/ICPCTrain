@@ -52,11 +52,11 @@
 46| [2020 Multi-University Training Contest 6 [Cloned]](https://vjudge.net/contest/431358)|746|35|8|9|6|[ABDEFGHIJ]|2021-4-4|doing|
 47| [2020 Petrozavodsk Winter Camp, Jagiellonian U Contest](https://codeforces.com/gym/102576)|87|8|11|12|5|[BEGIL]|2021-4-7|doing|
 48| [2019 China Collegiate Programming Contest Final (CCPC-Final 2019)](https://codeforces.com/gym/102431)|120|12|5|5|4|[AIKL]|2021-4-10|doing|
-49| [2020 China Collegiate Programming Contest Changchun Onsite](https://codeforces.com/gym/102832)|320|32|4|5|4|[ADFJKL]|2021-4-14|doing|
+49| [2020 China Collegiate Programming Contest Changchun Onsite](https://codeforces.com/gym/102832)|320|32|4|5|4|[ADFHJKL]|2021-4-14|doing|
 50| 2020 ICPC Asia-East Continent Final|288|28|5|6|3|[FKL]|2021-4-18|doing|
 51| [2020 Multi-University Training Contest 5 [Cloned]](https://vjudge.net/contest/434647)|661|35|6|7|4|[ACGIL]|2021-4-21|doing|
 52| [2020 Multi-University Training Contest 10 [Cloned]](https://vjudge.net/contest/435352)|458|35|5|5|4|[CDJK]|2021-4-25|doing|
-53| [2020-2021 ICPC Northwestern European Regional Programming Contest (NWERC 2020)](https://codeforces.com/gym/103049)|119|11|9|10|7|[ABCDEFHIK]|2021-4-28|doing|
+53| [2020-2021 ICPC Northwestern European Regional Programming Contest (NWERC 2020)](https://codeforces.com/gym/103049)|119|11|9|10|7|[ABCDEFGHIK]|2021-4-28|doing|
 
 ---
 

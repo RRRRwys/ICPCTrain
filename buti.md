@@ -5,7 +5,7 @@
 - https://vjudge.net/contest/434647#problem/E
 - ~~https://codeforces.com/gym/102832/problem/J~~
 - ~~https://codeforces.com/gym/102832/problem/L~~
-- https://codeforces.com/gym/102832/problem/H
+- ~~https://codeforces.com/gym/102832/problem/H~~
 - https://codeforces.com/gym/102832/problem/I
 - https://codeforces.com/gym/102431/problem/B
 - https://codeforces.com/gym/102431/problem/E
