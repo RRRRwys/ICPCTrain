@@ -59,7 +59,7 @@
 53| [2020-2021 ICPC Northwestern European Regional Programming Contest (NWERC 2020)](https://codeforces.com/gym/103049)|119|11|9|10|7|[ABCDEFGHIK]|2021-4-28|doing|
 54| [Samara Farewell Contest 2020 (XXI Open Cup, GP of Samara)](https://codeforces.com/gym/102916)|128|12|11|11|4|[BGJM]|2021-4-30|doing|
 55| [2020-2021 Russia Team Open, High School Programming Contest (VKOSHP 20)](https://codeforces.com/gym/102893)|306|30|7|8|6|[ABCDFHJ]+[G]|2021-5-2|doing|
-56| [2020 CCPC Wannafly Winter Camp Day5 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15924?&headNav=www)|129|12|4|5|3|[AEGI]|2021-5-3|doing|
+56| [2020 CCPC Wannafly Winter Camp Day5 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15924?&headNav=www)|129|12|4|5|3|[AEGI]+[JFD]|2021-5-3|doing|
 
 ---
 
