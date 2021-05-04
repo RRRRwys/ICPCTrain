@@ -64,7 +64,7 @@
 
 ---
 
-## Micro Contest
+ ## Micro Contest
 
 编号| 训练比赛 | ac+嘴 | 成员 |训练日期(YY-MM-DD) | 补题 |
 :---|:---|:---|:---|:---|:---
@@ -146,7 +146,7 @@
 > - **contest waiting queue**
 >    - **normal**
 >      - ~~https://codeforces.com/gym/102956~~
->      - 2020 CCPC Wannafly Winter Camp 6 7 ~~53 ~~
+>      - 2020 CCPC Wannafly Winter Camp 6 7 ~~5 3~~
 >      - ~~2019 China Collegiate Programming Contest Final (CCPC-Final 2019)~~
 >      - ~~The 2019 China Collegiate Programming Contest Harbin Site~~
 >      - other gym contest
