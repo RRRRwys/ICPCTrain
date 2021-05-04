@@ -60,6 +60,7 @@
 54| [Samara Farewell Contest 2020 (XXI Open Cup, GP of Samara)](https://codeforces.com/gym/102916)|128|12|11|11|4|[BGJM]|2021-4-30|doing|
 55| [2020-2021 Russia Team Open, High School Programming Contest (VKOSHP 20)](https://codeforces.com/gym/102893)|306|30|7|8|6|[ABCDFHJ]+[G]|2021-5-2|doing|
 56| [2020 CCPC Wannafly Winter Camp Day5 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15924?&headNav=www)|129|12|4|5|3|[AEGI]+[JFD]|2021-5-3|doing|
+57| [2020 CCPC-Wannafly Winter Camp Day3 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15977)|254|25|3|4|5|[ACDEFG]|2021-5-4|doing|
 
 ---
 
@@ -145,7 +146,7 @@
 > - **contest waiting queue**
 >    - **normal**
 >      - ~~https://codeforces.com/gym/102956~~
->      - 2020 CCPC Wannafly Winter Camp 6 7 3 ~~5~~
+>      - 2020 CCPC Wannafly Winter Camp 6 7 ~~53 ~~
 >      - ~~2019 China Collegiate Programming Contest Final (CCPC-Final 2019)~~
 >      - ~~The 2019 China Collegiate Programming Contest Harbin Site~~
 >      - other gym contest
@@ -172,7 +173,7 @@
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
-周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐|
+周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐|
 
 ---
 
