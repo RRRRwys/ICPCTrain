@@ -61,7 +61,7 @@
 55| [2020-2021 Russia Team Open, High School Programming Contest (VKOSHP 20)](https://codeforces.com/gym/102893)|306|30|7|8|6|[ABCDFHJ]+[G]|2021-5-2|doing|
 56| [2020 CCPC Wannafly Winter Camp Day5 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15924?&headNav=www)|129|12|4|5|3|[AEGI]+[JFD]|2021-5-3||
 57| [2020 CCPC-Wannafly Winter Camp Day3 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15977)|254|25|3|4|5|[ACDEFG]|2021-5-4||
-58| [Moscow Pre-Finals Workshop 2020 - Legilimens+Coffee Chicken Contest (XX Open Cup, Grand Prix of Nanjing)](https://codeforces.com/gym/102994)|105|10|8|9|3|[AJL]|doing|
+58| [Moscow Pre-Finals Workshop 2020 - Legilimens+Coffee Chicken Contest (XX Open Cup, Grand Prix of Nanjing)](https://codeforces.com/gym/102994)|105|10|8|9|3|[AJL]|2021-5-5|doing|
 
 ---
 
