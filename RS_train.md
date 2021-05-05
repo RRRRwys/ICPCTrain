@@ -87,7 +87,7 @@
 16| [ACM ICPC Brazil Subregional contest 2020-21 [Cloned]](https://vjudge.net/contest/432087)|[BFGHLLN]|lsz,wys|2021-4-7|
 17| [2016-2017 ACM-ICPC Asia-Bangkok Regional Contest](https://codeforces.com/gym/101161)|[BEFGIL]|lsz,zyp,wys|2021-4-16|
 18| [The 14th Jilin Provincial Collegiate Programming Contest](https://codeforces.com/gym/102800)|[ABCDEFGHJL]|lsz,zyp,wys|2021-4-27|
-19| [Comet OJ - Contest #5](https://cometoj.com/reappear/467/contest/46/problems)|[ABC]+[E]|zyp,lsz,wys|2021-5-5|
+19| [Comet OJ - Contest #5](https://cometoj.com/reappear/467/contest/46/problems)|[ABCE]|zyp,lsz,wys|2021-5-5|
 
 ---
 
