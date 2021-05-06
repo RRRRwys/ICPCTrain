@@ -19,7 +19,7 @@
 - https://codeforces.com/gym/102798/problem/B
 - https://codeforces.com/gym/102798/problem/J
 - https://codeforces.com/gym/102798/problem/E
-- https://vjudge.net/contest/429253#problem/H
+- ~~https://vjudge.net/contest/429253#problem/H~~
 - ~~https://codeforces.com/gym/102394/problem/B~~
 - https://ac.nowcoder.com/acm/contest/13219/E
 - https://ac.nowcoder.com/acm/contest/13219/D

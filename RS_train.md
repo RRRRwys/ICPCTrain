@@ -45,7 +45,7 @@
 39| [2020 Multi-University Training Contest 8 [Cloned]](https://vjudge.net/contest/427415)|717|71|5|6|4|[BCDFHIKL]|2021-3-14||
 40| [2020 ICPC·小米邀请赛 决赛（重现赛）](https://ac.nowcoder.com/acm/contest/13219)|102|10|6|7|2|[BGJKL]+[I]|2021-3-17|doing|
 41| [The 2019 China Collegiate Programming Contest Harbin Site](https://codeforces.com/gym/102394)|272|27|6|7|6|[ABCEFIJKL]|2021-3-20||
-42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[DEFGIJ]|2021-3-24|doing|
+42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[DEFGHIJ]|2021-3-24||
 43| [2020 China Collegiate Programming Contest, Weihai Site](https://codeforc.es/gym/102798)|383|35|6|7|4|[ACDGHL]|2021-3-27|doing|
 44| [2020-2021 Winter Petrozavodsk Camp, Belarusian SU Contest (XXI Open Cup, Grand Prix of Belarus)](https://codeforces.com/gym/102956)|143|14|11|12|6|[CDEGIJMN]|2021-3-28|doing|
 45| [2020 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/430690)|548|35|3|4|2|[ABG]|2021-3-31|doing|
@@ -57,7 +57,7 @@
 51| [2020 Multi-University Training Contest 5 [Cloned]](https://vjudge.net/contest/434647)|661|35|6|7|4|[ACGIL]|2021-4-21|doing|
 52| [2020 Multi-University Training Contest 10 [Cloned]](https://vjudge.net/contest/435352)|458|35|5|5|4|[CDJK]|2021-4-25|doing|
 53| [2020-2021 ICPC Northwestern European Regional Programming Contest (NWERC 2020)](https://codeforces.com/gym/103049)|119|11|9|10|7|[ABCDEFGHIK]|2021-4-28|doing|
-54| [Samara Farewell Contest 2020 (XXI Open Cup, GP of Samara)](https://codeforces.com/gym/102916)|128|12|11|11|4|[BGJM]|2021-4-30|doing|
+54| [Samara Farewell Contest 2020 (XXI Open Cup, GP of Samara)](https://codeforces.com/gym/102916)|128|12|11|11|4|[BGJLM]|2021-4-30|doing|
 55| [2020-2021 Russia Team Open, High School Programming Contest (VKOSHP 20)](https://codeforces.com/gym/102893)|306|30|7|8|6|[ABCDFHJ]+[G]|2021-5-2|doing|
 56| [2020 CCPC Wannafly Winter Camp Day5 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15924?&headNav=www)|129|12|4|5|3|[AEGI]+[JFD]|2021-5-3||
 57| [2020 CCPC-Wannafly Winter Camp Day3 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15977)|254|25|3|4|5|[ACDEFG]|2021-5-4||
