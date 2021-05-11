@@ -49,7 +49,7 @@
 43| [2020 China Collegiate Programming Contest, Weihai Site](https://codeforc.es/gym/102798)|383|35|6|7|4|[ACDGHL]|2021-3-27|doing|
 44| [2020-2021 Winter Petrozavodsk Camp, Belarusian SU Contest (XXI Open Cup, Grand Prix of Belarus)](https://codeforces.com/gym/102956)|143|14|11|12|6|[CDEGIJMN]|2021-3-28|doing|
 45| [2020 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/430690)|548|35|3|4|2|[ABG]|2021-3-31|doing|
-46| [2020 Multi-University Training Contest 6 [Cloned]](https://vjudge.net/contest/431358)|746|35|8|9|6|[ABDEFGHIJ]|2021-4-4|doing|
+46| [2020 Multi-University Training Contest 6 [Cloned]](https://vjudge.net/contest/431358)|746|35|8|9|6|[ABDEFGHIJK]|2021-4-4|doing|
 47| [2020 Petrozavodsk Winter Camp, Jagiellonian U Contest](https://codeforces.com/gym/102576)|87|8|11|12|5|[BEGIL]|2021-4-7|doing|
 48| [2019 China Collegiate Programming Contest Final (CCPC-Final 2019)](https://codeforces.com/gym/102431)|120|12|5|5|4|[AIKL]|2021-4-10|doing|
 49| [2020 China Collegiate Programming Contest Changchun Onsite](https://codeforces.com/gym/102832)|320|32|4|5|4|[ADFHJKL]|2021-4-14|doing|
@@ -62,7 +62,7 @@
 56| [2020 CCPC Wannafly Winter Camp Day5 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15924?&headNav=www)|129|12|4|5|3|[AEGI]+[JFD]|2021-5-3||
 57| [2020 CCPC-Wannafly Winter Camp Day3 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15977)|254|25|3|4|5|[ACDEFG]|2021-5-4||
 58| [Moscow Pre-Finals Workshop 2020 - Legilimens+Coffee Chicken Contest (XX Open Cup, Grand Prix of Nanjing)](https://codeforces.com/gym/102994)|105|10|8|9|3|[AGJL]+[I]|2021-5-5|doing|
-59| [2020-2021 Summer Petrozavodsk Camp, Day 6: Korean Contest](https://codeforces.com/gym/102984)|52|5|6|7|3|[DEGK]|2021-5-8|doing|
+59| [2020-2021 Summer Petrozavodsk Camp, Day 6: Korean Contest](https://codeforces.com/gym/102984)|52|5|6|7|3|[ADEGK]|2021-5-8|doing|
 60| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）（重现赛）](https://ac.nowcoder.com/acm/contest/16235?&headNav=www#question)|634|35|7|8|7|[BCDEGILM]|2021-5-9|doing|
 
 ---
@@ -175,7 +175,7 @@
 
 |item | status|
 |:---:|:---|
-补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐|
