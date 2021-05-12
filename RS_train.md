@@ -63,7 +63,7 @@
 57| [2020 CCPC-Wannafly Winter Camp Day3 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15977)|254|25|3|4|5|[ACDEFG]|2021-5-4||
 58| [Moscow Pre-Finals Workshop 2020 - Legilimens+Coffee Chicken Contest (XX Open Cup, Grand Prix of Nanjing)](https://codeforces.com/gym/102994)|105|10|8|9|3|[ABGJL]+[I]|2021-5-5|doing|
 59| [2020-2021 Summer Petrozavodsk Camp, Day 6: Korean Contest](https://codeforces.com/gym/102984)|52|5|6|7|3|[ADEGK]|2021-5-8|doing|
-60| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）（重现赛）](https://ac.nowcoder.com/acm/contest/16235?&headNav=www#question)|634|35|7|8|7|[BCDEFGILM]|2021-5-9|doing|
+60| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）（重现赛）](https://ac.nowcoder.com/acm/contest/16235?&headNav=www#question)|634|35|7|8|7|[BCDEFGILM]+[H]|2021-5-9||
 
 ---
 
