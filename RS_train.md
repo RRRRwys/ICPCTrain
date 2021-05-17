@@ -57,12 +57,12 @@
 51| [2020 Multi-University Training Contest 5 [Cloned]](https://vjudge.net/contest/434647)|661|35|6|7|4|[ACGIL]|2021-4-21|doing|
 52| [2020 Multi-University Training Contest 10 [Cloned]](https://vjudge.net/contest/435352)|458|35|5|5|4|[CDJK]|2021-4-25|doing|
 53| [2020-2021 ICPC Northwestern European Regional Programming Contest (NWERC 2020)](https://codeforces.com/gym/103049)|119|11|9|10|7|[ABCDEFGHIK]|2021-4-28|doing|
-54| [Samara Farewell Contest 2020 (XXI Open Cup, GP of Samara)](https://codeforces.com/gym/102916)|128|12|11|11|4|[BGJLM]|2021-4-30|doing|
+54| [Samara Farewell Contest 2020 (XXI Open Cup, GP of Samara)](https://codeforces.com/gym/102916)|128|12|11|11|4|[BGJKLM]|2021-4-30|doing|
 55| [2020-2021 Russia Team Open, High School Programming Contest (VKOSHP 20)](https://codeforces.com/gym/102893)|306|30|7|8|6|[ABCDFHJ]+[G]|2021-5-2|doing|
 56| [2020 CCPC Wannafly Winter Camp Day5 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15924?&headNav=www)|129|12|4|5|3|[AEGI]+[JFD]|2021-5-3||
 57| [2020 CCPC-Wannafly Winter Camp Day3 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15977)|254|25|3|4|5|[ACDEFG]|2021-5-4||
 58| [Moscow Pre-Finals Workshop 2020 - Legilimens+Coffee Chicken Contest (XX Open Cup, Grand Prix of Nanjing)](https://codeforces.com/gym/102994)|105|10|8|9|3|[ABGJL]+[I]|2021-5-5|doing|
-59| [2020-2021 Summer Petrozavodsk Camp, Day 6: Korean Contest](https://codeforces.com/gym/102984)|52|5|6|7|3|[ADEGK]|2021-5-8|doing|
+59| [2020-2021 Summer Petrozavodsk Camp, Day 6: Korean Contest](https://codeforces.com/gym/102984)|52|5|6|7|3|[ADEFGK]|2021-5-8|doing|
 60| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）（重现赛）](https://ac.nowcoder.com/acm/contest/16235?&headNav=www#question)|634|35|7|8|7|[BCDEFGILM]+[H]|2021-5-9||
 61| [2019 China Collegiate Programming Contest Qinhuangdao Onsite](https://codeforces.com/gym/102361)|264|26|5|6|7|[ADEFIJK]|2021-5-13|doing|
 62| [XXI Open Cup. Grand Prix of Korea](https://codeforces.com/gym/102759)|101|10|9|10|4|[DHJK]|2021-5-15|doing|
@@ -178,7 +178,7 @@
 
 |item | status|
 |:---:|:---|
-补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐|
