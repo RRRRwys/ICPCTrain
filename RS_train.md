@@ -94,6 +94,7 @@
 18| [The 14th Jilin Provincial Collegiate Programming Contest](https://codeforces.com/gym/102800)|[ABCDEFGHJL]|lsz,zyp,wys|2021-4-27|
 19| [Comet OJ - Contest #5](https://cometoj.com/reappear/467/contest/46/problems)|[ABCE]|zyp,lsz,wys|2021-5-5|
 20| [2021 ECNU Campus Invitational Contest](https://codeforces.com/gym/103048)|[ABCDEGIK]|zyp,wys|2021-5-7|
+21| [The 18th Zhejiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103055)|[ACDFGIJLM]|zyp,lsz,wys|2021-5-18|
 
 ---
 
@@ -180,7 +181,7 @@
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐|
 
 ---
