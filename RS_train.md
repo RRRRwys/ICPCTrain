@@ -64,7 +64,7 @@
 58| [Moscow Pre-Finals Workshop 2020 - Legilimens+Coffee Chicken Contest (XX Open Cup, Grand Prix of Nanjing)](https://codeforces.com/gym/102994)|105|10|8|9|3|[ABGJL]+[I]|2021-5-5|doing|
 59| [2020-2021 Summer Petrozavodsk Camp, Day 6: Korean Contest](https://codeforces.com/gym/102984)|52|5|6|7|3|[ADEFGK]|2021-5-8|doing|
 60| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）（重现赛）](https://ac.nowcoder.com/acm/contest/16235?&headNav=www#question)|634|35|7|8|7|[BCDEFGILM]+[H]|2021-5-9||
-61| [2019 China Collegiate Programming Contest Qinhuangdao Onsite](https://codeforces.com/gym/102361)|264|26|5|6|7|[ADEFIJK]|2021-5-13|doing|
+61| [2019 China Collegiate Programming Contest Qinhuangdao Onsite](https://codeforces.com/gym/102361)|264|26|5|6|7|[ADEFGIJK]|2021-5-13||
 62| [XXI Open Cup. Grand Prix of Korea](https://codeforces.com/gym/102759)|101|10|9|10|4|[DHJK]|2021-5-15|doing|
 63| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（济南）](https://ac.nowcoder.com/acm/contest/16694)|546|35|6|7|7|[ACDGJLM]|2021-5-16|doing|
 
@@ -94,7 +94,7 @@
 18| [The 14th Jilin Provincial Collegiate Programming Contest](https://codeforces.com/gym/102800)|[ABCDEFGHJL]|lsz,zyp,wys|2021-4-27|
 19| [Comet OJ - Contest #5](https://cometoj.com/reappear/467/contest/46/problems)|[ABCE]|zyp,lsz,wys|2021-5-5|
 20| [2021 ECNU Campus Invitational Contest](https://codeforces.com/gym/103048)|[ABCDEGIK]|zyp,wys|2021-5-7|
-21| [The 18th Zhejiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103055)|[ACDFGIJLM]|zyp,lsz,wys|2021-5-18|
+21| [The 18th Zhejiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103055)|[ABCDFGIJLM]|zyp,lsz,wys|2021-5-18|
 
 ---
 
@@ -179,7 +179,7 @@
 
 |item | status|
 |:---:|:---|
-补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐|
