@@ -67,6 +67,7 @@
 61| [2019 China Collegiate Programming Contest Qinhuangdao Onsite](https://codeforces.com/gym/102361)|264|26|5|6|7|[ADEFGIJK]|2021-5-13||
 62| [XXI Open Cup. Grand Prix of Korea](https://codeforces.com/gym/102759)|101|10|9|10|4|[DHJK]|2021-5-15|doing|
 63| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（济南）](https://ac.nowcoder.com/acm/contest/16694)|546|35|6|7|7|[ACDGJLM]|2021-5-16|doing|
+64| [Northern Eurasia Finals Online 2020](https://codeforces.com/gym/102896)|312|31|7|8|5|[ACEKM]|2021-5-20|doing|
 
 ---
 
@@ -180,7 +181,7 @@
 |item | status|
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
-周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐|
 
