@@ -141,6 +141,7 @@
 - cout和其他输出混用了吗
 - memset注意了吗
 - 输入需要sort吗
+- inf + inf ?
  
 ---
 
