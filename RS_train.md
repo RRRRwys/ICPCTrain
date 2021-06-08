@@ -99,6 +99,7 @@
 20| [2021 ECNU Campus Invitational Contest](https://codeforces.com/gym/103048)|[ABCDEGIK]|zyp,wys|2021-5-7|
 21| [The 18th Zhejiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103055)|[ABCDFGIJLM]|zyp,lsz,wys|2021-5-18|
 22| [The 16th Heilongjiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103107)|[DFGHJK]|lsz,wys|2021-6-1|
+23| [2021 Shandong Provincial Collegiate Programming Contest](https://codeforces.com/gym/103118)| [BCDGHM]| zyp,wys |2021-6-8|
 
 ---
 
@@ -150,6 +151,7 @@
 - memset注意了吗
 - 输入需要sort吗
 - inf + inf 加爆了吗
+- 检查数组是不是开小啦 （尤其是有的数组要求大小不一样）
 
 ---
 
