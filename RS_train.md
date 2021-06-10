@@ -70,6 +70,7 @@
 64| [Northern Eurasia Finals Online 2020](https://codeforces.com/gym/102896)|312|31|7|8|5|[ACEKM]|2021-5-20|doing|
 65| [2020-2021 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 20)](https://codeforces.com/gym/102860)|454|35|8|9|10|[ABCDEFGIKL]|2021-5-20|doing|
 66| 2021 Xi'an National Invitational Formal Contest | 273 | 28 | 5 | 6 | 5 | [CFGHKLM] | doing |
+67| [2019 Multi-University Training Contest 8](https://vjudge.net/contest/442954)| 818 | 35 | 6 | 7 | 4 | [CIJK] | doing |
 
 ---
 
@@ -176,6 +177,7 @@
 >      - other gym contest
 >    - **hard**
 >      - ~~2020 Multi-University Training Contest 10 5 6 9 7 8~~
+>      - 2019 Multi-University Training Contest 9 10 4 6 5 7 8
 >      - ~~https://codeforces.com/gym/102984~~
 >      - ~~https://codeforces.com/gym/102576~~
 >      - ~~https://codeforces.com/gym/102916~~
