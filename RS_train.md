@@ -71,6 +71,7 @@
 65| [2020-2021 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 20)](https://codeforces.com/gym/102860)|454|35|8|9|10|[ABCDEFGIKL]|2021-5-20|doing|
 66| 2021 Xi'an National Invitational Formal Contest | 273 | 28 | 5 | 6 | 5 | [CFGHKLM] |2021-6-6| doing |
 67| [2019 Multi-University Training Contest 8](https://vjudge.net/contest/442954)| 818 | 35 | 6 | 7 | 4 | [CDEFIJK] | 2021-6-10 | doing |
+68| [2019 Multi-University Training Contest 5](https://vjudge.net/contest/443279)| 713 | 35 | 5 | 6 | 5 | [ADEFG] | 2021-6-13| doing |
 
 ---
 
@@ -177,7 +178,7 @@
 >      - other gym contest
 >    - **hard**
 >      - ~~2020 Multi-University Training Contest 10 5 6 9 7 8~~
->      - 2019 Multi-University Training Contest 9 10 4 6 5 7 8
+>      - 2019 Multi-University Training Contest 7 9 10 4 6 ~~5 8~~
 >      - ~~https://codeforces.com/gym/102984~~
 >      - ~~https://codeforces.com/gym/102576~~
 >      - ~~https://codeforces.com/gym/102916~~
@@ -199,7 +200,7 @@
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐|
+周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐|
 
 ---
 
