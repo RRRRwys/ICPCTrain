@@ -71,7 +71,7 @@
 65| [2020-2021 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 20)](https://codeforces.com/gym/102860)|454|35|8|9|10|[ABCDEFGIKL]|2021-5-20|doing|
 66| 2021 Xi'an National Invitational Formal Contest | 273 | 28 | 5 | 6 | 5 | [CFGHKLM] |2021-6-6| doing |
 67| [2019 Multi-University Training Contest 8](https://vjudge.net/contest/442954)| 818 | 35 | 6 | 7 | 4 | [CDEFIJK] | 2021-6-10| doing |
-68| [2019 Multi-University Training Contest 5](https://vjudge.net/contest/443279)| 713 | 35 | 5 | 6 | 5 | [ADEFG] | 2021-6-13| doing |
+68| [2019 Multi-University Training Contest 5](https://vjudge.net/contest/443279)| 713 | 35 | 5 | 6 | 5 | [ADEFGH] | 2021-6-13| doing |
 69| [2019 Multi-University Training Contest 6](https://vjudge.net/contest/443347)| 824 | 35 | 6 | 7 | 6 | [BEFHKL] | 2021-6-14| doing |
 
 ---
