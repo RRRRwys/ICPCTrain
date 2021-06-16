@@ -103,6 +103,7 @@
 21| [The 18th Zhejiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103055)|[ABCDFGIJLM]|zyp,lsz,wys|2021-5-18|
 22| [The 16th Heilongjiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103107)|[DFGHJK]|lsz,wys|2021-6-1|
 23| [2021 Shandong Provincial Collegiate Programming Contest](https://codeforces.com/gym/103118)| [BCDGHM]| zyp,wys |2021-6-8|
+24| [The 2021 Sichuan Provincial Collegiate Programming Contest](https://codeforces.com/gym/103117)| [ABDEFHJKLM] | zyp,wys |2021-6-16|
 
 ---
 
@@ -200,7 +201,7 @@
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 
 ---
