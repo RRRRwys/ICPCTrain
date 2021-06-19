@@ -74,6 +74,7 @@
 68| [2019 Multi-University Training Contest 5](https://vjudge.net/contest/443279)| 713 | 35 | 5 | 6 | 5 | [ADEFGH] |2021-6-13| doing |
 69| [2019 Multi-University Training Contest 6](https://vjudge.net/contest/443347)| 824 | 35 | 6 | 7 | 6 | [BEFHKL] |2021-6-14| doing |
 70| [2020-2021 ICPC Southeastern European Regional Programming Contest (SEERC 2020)](https://codeforces.com/gym/103102)| 95 | 9 | 6 | 7 | 4 | [BELM] |2021-6-17| doing |
+71| [2021 Hubei Provincial Collegiate Programming Contest](https://codeforces.com/gym/103104) | 100 | 10 | 5 | 6 | 4 | [ADFH] |2021-6-19| doing |
 
 ---
 
@@ -203,7 +204,7 @@
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 
 ---
 
