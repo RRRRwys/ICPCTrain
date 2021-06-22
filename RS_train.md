@@ -100,14 +100,14 @@
 15| [2019 GDUT Summer Team_up Training XIV [Cloned]](https://vjudge.net/contest/431879)|[ABDEFGHK]|zyp,wys|2021-4-6|
 16| [ACM ICPC Brazil Subregional contest 2020-21 [Cloned]](https://vjudge.net/contest/432087)|[BFGHLLN]|lsz,wys|2021-4-7|
 17| [2016-2017 ACM-ICPC Asia-Bangkok Regional Contest](https://codeforces.com/gym/101161)|[BEFGIL]|lsz,zyp,wys|2021-4-16|
-18| [The 14th Jilin Provincial Collegiate Programming Contest](https://codeforces.com/gym/102800)|[ABCDEFGHJL]|lsz,zyp,wys|2021-4-27|
+18| [The 14th Jilin Provincial Collegiate Programming Contest](https://codeforces.com/gym/102800),[#](https://codeforces.com/gym/326098)|[ABCDEFGHJL]|lsz,zyp,wys|2021-4-27|
 19| [Comet OJ - Contest #5](https://cometoj.com/reappear/467/contest/46/problems)|[ABCE]|zyp,lsz,wys|2021-5-5|
 20| [2021 ECNU Campus Invitational Contest](https://codeforces.com/gym/103048)|[ABCDEGIK]|zyp,wys|2021-5-7|
-21| [The 18th Zhejiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103055)|[ABCDFGIJLM]|zyp,lsz,wys|2021-5-18|
-22| [The 16th Heilongjiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103107)|[DFGHJK]|lsz,wys|2021-6-1|
-23| [2021 Shandong Provincial Collegiate Programming Contest](https://codeforces.com/gym/103118)| [BCDGHM]| zyp,wys |2021-6-8|
-24| [The 2021 Sichuan Provincial Collegiate Programming Contest](https://codeforces.com/gym/103117)| [ABDEFHJKLM] | zyp,wys |2021-6-16|
-25| [The 15th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/103145)| [ABCDEGHIJKM] | zyp,lsz,wyz |2021-6-22|
+21| [The 18th Zhejiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103055),[#](https://codeforces.com/gym/328793)|[ABCDFGIJLM]|zyp,lsz,wys|2021-5-18|
+22| [The 16th Heilongjiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103107),[#](https://codeforces.com/gym/330602)|[DFGHJK]|lsz,wys|2021-6-1|
+23| [2021 Shandong Provincial Collegiate Programming Contest](https://codeforces.com/gym/103118),[#](https://codeforces.com/gym/331688)| [BCDGHM]| zyp,wys |2021-6-8|
+24| [The 2021 Sichuan Provincial Collegiate Programming Contest](https://codeforces.com/gym/103117),[#](https://codeforces.com/gym/332842)| [ABDEFHJKLM] | zyp,wys |2021-6-16|
+25| [The 15th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/103145),[#](https://codeforces.com/contests/333681)| [ABCDEGHIJKM] | zyp,lsz,wyz |2021-6-22|
 
 ---
 
