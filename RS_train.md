@@ -76,6 +76,7 @@
 70| [2020-2021 ICPC Southeastern European Regional Programming Contest (SEERC 2020)](https://codeforces.com/gym/103102)| 95 | 9 | 6 | 7 | 4 | [BEILM] |2021-6-17| doing |
 71| [2021 Hubei Provincial Collegiate Programming Contest](https://codeforces.com/gym/103104) | 100 | 10 | 5 | 6 | 4 | [ADFHI] |2021-6-19| doing |
 72| [2019 Multi-University Training Contest 10](https://vjudge.net/contest/444001)| 719 | 35 | 5 | 6 | 5 | [CEGHIK] |2021-6-20| doing |
+73| [2020-2021 “Orz Panda” Cup Programming Contest](https://codeforc.es/gym/102870)| 16 | 1 | 7 | 7 | 4 | [ACHI] | 2021-6-25 | doing |
 
 ---
 
@@ -204,7 +205,7 @@
 |item | status|
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐|
 
