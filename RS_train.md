@@ -110,6 +110,7 @@
 23| [2021 Shandong Provincial Collegiate Programming Contest](https://codeforces.com/gym/103118),[#](https://codeforces.com/gym/331688)| [BCDGHM]| zyp,wys |2021-6-8|
 24| [The 2021 Sichuan Provincial Collegiate Programming Contest](https://codeforces.com/gym/103117),[#](https://codeforces.com/gym/332842)| [ABDEFHJKLM] | zyp,wys |2021-6-16|
 25| [The 15th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/103145),[#](https://codeforces.com/contests/333681)| [ABCDEGHIJKM] | zyp,lsz,wyz |2021-6-22|
+26| [2021 Xinjiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103115), [#](https://codeforces.com/gym/334587)| [ABCDEFGHIJK] | zyp,wys,lsz | 2021-6-29 |
 
 ---
 
@@ -207,7 +208,7 @@
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
 
 ---
