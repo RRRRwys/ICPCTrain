@@ -78,6 +78,7 @@
 72| [2019 Multi-University Training Contest 10](https://vjudge.net/contest/444001)| 719 | 35 | 5 | 6 | 5 | [CEGHIK] |2021-6-20| doing |
 73| [2020-2021 “Orz Panda” Cup Programming Contest](https://codeforces.com/gym/102870)| 16 | 1 | 7 | 7 | 4 | [ACHI] | 2021-6-25 | doing |
 74| [2020-2021 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102861)| 1058 | 35 | 7 | 8 | 9 | [ABEFGHILMN] | 2021-6-27 | |
+75| [The 15th Heilongjiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/102803)| 175 | 17 | 5 | 6 | 8 | [ABCDGHKL] | 2021-7-1| |
 
 ---
 
@@ -207,7 +208,7 @@
 |item | status|
 |:---:|:---|
 补题  | ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
-周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
+周内5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 自定义| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐ ⚐|
 周末5h| ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚑ ⚐ ⚐ ⚐ ⚐|
 
