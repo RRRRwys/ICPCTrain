@@ -81,6 +81,7 @@
 75| [The 15th Heilongjiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/102803)| 175 | 17 | 5 | 6 | 8 | [ABCDGHKL] | 2021-7-1| |
 76| [2019 Multi-University Training Contest 4 [Cloned]](https://vjudge.net/contest/445372)| 838 | 35 | 5 | 6 | 5 | [ACGHJ] | 2021-7-4| doing |
 77| [2019-2020 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 19)](https://codeforces.com/gym/102396)|410|35| 6 | 7 | 8 | [ABCEFGHIK] | 2021-7-8 | |
+78| [2019 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/446211)| 747 | 35 | 5 | 6 | 5 | [ABCEF] | 2021-7-9 | doing |
 
 ---
 
@@ -190,7 +191,7 @@
 >      - other gym contest
 >    - **hard**
 >      - ~~2020 Multi-University Training Contest 10 5 6 9 7 8~~
->      - 2019 Multi-University Training Contest 7 9 ~~4 10 6 5 8~~
+>      - 2019 Multi-University Training Contest 7 ~~9 4 10 6 5 8~~
 >      - ~~https://codeforces.com/gym/102984~~
 >      - ~~https://codeforces.com/gym/102576~~
 >      - ~~https://codeforces.com/gym/102916~~
