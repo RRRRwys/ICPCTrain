@@ -82,6 +82,7 @@
 76| [2019 Multi-University Training Contest 4 [Cloned]](https://vjudge.net/contest/445372)| 838 | 35 | 5 | 6 | 5 | [ACGHJ] | 2021-7-4| doing |
 77| [2019-2020 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 19)](https://codeforces.com/gym/102396)|410|35| 6 | 7 | 8 | [ABCEFGHIK] | 2021-7-8 | |
 78| [2019 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/446211)| 747 | 35 | 5 | 6 | 5 | [ABCEF] | 2021-7-9 | doing |
+79| [The 2020 ICPC Asia Macau Regional Contest](https://codeforces.com/gym/103119)| 50 | 5 | 6 | 7 | 6 | [ACDFGL] | 2021-7-13 | doing |
 
 ---
 
@@ -115,7 +116,7 @@
 24| [The 2021 Sichuan Provincial Collegiate Programming Contest](https://codeforces.com/gym/103117),[#](https://codeforces.com/gym/332842)| [ABDEFHJKLM] | zyp,wys |2021-6-16|
 25| [The 15th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/103145),[#](https://codeforces.com/contests/333681)| [ABCDEGHIJKM] | zyp,lsz,wyz |2021-6-22|
 26| [2021 Xinjiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/103115), [#](https://codeforces.com/gym/334587)| [ABCDEFGHIJK] | zyp,wys,lsz | 2021-6-29 |
-27| [2020-2021 ACM-ICPC Latin American Regional Programming Contest](), [#](https://codeforces.com/gym/336356#)| [BCDEKLN] | zyp,wys,lsz |
+27| [2020-2021 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/103185), [#](https://codeforces.com/gym/336356#)| [BCDEKLN] | zyp,wys,lsz |
 
 ---
 
@@ -205,7 +206,7 @@
 >      - ~~2020 ICPC Jinan https://ac.nowcoder.com/acm/contest/10662~~
 >      - 2020 ICPC Kunming https://ac.nowcoder.com/acm/contest/14055
 >      - ~~2020 ICPC 小米邀请赛 https://ac.nowcoder.com/acm/contest/9328~~
->      - The 2020 ICPC Asia Macau Regional Contest https://codeforces.com/gym/103119
+>      - ~~The 2020 ICPC Asia Macau Regional Contest https://codeforces.com/gym/103119~~
 
 - 每周1场normal、一场hard，看情况使用real，尽量保证real里的比赛三人凑齐、9:00开始、认真打
 - 后面还有3场20年的题，加上昆明和ec，一共5场，~~4月10日安排一场、4月17日打ec~~、五一假期排3场
