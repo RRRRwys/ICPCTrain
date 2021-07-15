@@ -83,6 +83,7 @@
 77| [2019-2020 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 19)](https://codeforces.com/gym/102396)|410|35| 6 | 7 | 8 | [ABCEFGHIK] | 2021-7-8 | |
 78| [2019 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/446211)| 747 | 35 | 5 | 6 | 5 | [ABCEF] | 2021-7-9 | doing |
 79| [The 2020 ICPC Asia Macau Regional Contest](https://codeforces.com/gym/103119)| 50 | 5 | 6 | 7 | 6 | [ACDFGL] | 2021-7-13 | doing |
+80| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（昆明）](https://ac.nowcoder.com/acm/contest/18520)| 814 | 35 | 6 | 7 | 7 | [CDHIJLM] | 2021-7-15 | doing |
 
 ---
 
@@ -204,7 +205,7 @@
 >      - ~~2020 China Collegiate Programming Contest, Weihai Site~~
 >      - ~~2020 ICPC Shanghai Site~~
 >      - ~~2020 ICPC Jinan https://ac.nowcoder.com/acm/contest/10662~~
->      - 2020 ICPC Kunming https://ac.nowcoder.com/acm/contest/14055
+>      - ~~2020 ICPC Kunming https://ac.nowcoder.com/acm/contest/12548~~
 >      - ~~2020 ICPC 小米邀请赛 https://ac.nowcoder.com/acm/contest/9328~~
 >      - ~~The 2020 ICPC Asia Macau Regional Contest https://codeforces.com/gym/103119~~
 
