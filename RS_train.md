@@ -123,6 +123,19 @@
 
 ## 数据分析
 
+- Std Contest 33-80
+  - 2020-12-20 至 2021-07-15，进行了47场训练赛
+  - 其中 real:
+    - 2020 ICPC·小米邀请赛 决赛：86/102
+    - 2020 China Collegiate Programming Contest, Weihai Site: 137/386
+    - 第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）（重现赛）: 39/675
+    - 第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（济南）: 22/546
+    - The 2020 ICPC Asia Macau Regional Contest: 7/51
+    - 第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（昆明）: 19/814
+    - 2020 China Collegiate Programming Contest Changchun Onsite: 41/320 
+    - 2 场金、3场达到金最少题数
+    - 一般情况稳金7-8题
+    - 低罚时至关重要
 - Std Contest 16-32
   - 2020-10-02 至 2020-12-13，进行了17场训练赛
   - 所有场次
