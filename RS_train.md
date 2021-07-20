@@ -84,7 +84,7 @@
 78| [2019 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/446211)| 747 | 35 | 5 | 6 | 5 | [ABCEF] | 2021-7-9 | doing |
 79| [The 2020 ICPC Asia Macau Regional Contest](https://codeforces.com/gym/103119)| 50 | 5 | 6 | 7 | 6 | [ACDFGL] | 2021-7-13 | doing |
 80| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（昆明）](https://ac.nowcoder.com/acm/contest/18520)| 814 | 35 | 6 | 7 | 7 | [CDHIJLM] | 2021-7-15 | doing |
-81| [The 45th ICPC Asia Shenyang Regional Programming Contest](http://codeforces.com/gym/103202)| 274 | 6 | 7 | 4 | [FGHK] | 2021-7-18 | doing | 
+81| [The 45th ICPC Asia Shenyang Regional Programming Contest](http://codeforces.com/gym/103202)| 274 | 28 | 6 | 7 | 4 | [FGHK] | 2021-7-18 | doing | 
 
 ---
 
