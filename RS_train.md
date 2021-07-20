@@ -85,6 +85,8 @@
 79| [The 2020 ICPC Asia Macau Regional Contest](https://codeforces.com/gym/103119)| 50 | 5 | 6 | 7 | 6 | [ACDFGL] | 2021-7-13 | doing |
 80| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（昆明）](https://ac.nowcoder.com/acm/contest/18520)| 814 | 35 | 6 | 7 | 7 | [CDHIJLM] | 2021-7-15 | doing |
 81| [The 45th ICPC Asia Shenyang Regional Programming Contest](http://codeforces.com/gym/103202)| 274 | 28 | 6 | 7 | 4 | [FGHK] | 2021-7-18 | doing | 
+82| [2021牛客暑期多校训练营2](https://ac.nowcoder.com/acm/contest/11253)| 1352 | 35 | 6 | 7 | 5 | [CDFIJK] | 2021-7-19 | doing |
+83| [2021“MINIEYE杯”中国大学生算法设计超级联赛（1）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=984)| 754 | 35 | 8 | 9 | 5| [AEFGHI] | 2021-7-20 | doing |
 
 ---
 
