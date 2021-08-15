@@ -27,66 +27,81 @@
 21| [2019-2020 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/102428)|315|31|6|7|7|[DEFGIJKLM]|2020-10-18|
 22| [2020牛客国庆集训派对day8](https://ac.nowcoder.com/acm/contest/8523)|164|16|6|7|6|[ABCDEFGIJK]|2020-10-25|
 23| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲网上区域赛模拟赛](https://ac.nowcoder.com/acm/contest/8688)|673|67|5|6|6|[ABDEFHIJ]|2020-10-31|
-24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]+[C]|2020-11-7|doing|
+24| [2018 China Collegiate Programming Contest Final (CCPC-Final 2018)](https://codeforces.com/gym/102055)|113|11|6|7|5|[ABGIKL]+[C]|2020-11-07|doing|
 25| [2020 China Collegiate Programming Contest Qinhuangdao Site](http://codeforces.com/gym/102769)|343|34|5|6|5|[AEFGHIJK]|2020-11-14||
 26| [2018 China Collegiate Programming Contest - Guilin Site](https://vjudge.net/contest/407665)|195|19|5|6|6|[ABCDGHJL]|2020-11-21|
 27| [2017中国大学生程序设计竞赛-哈尔滨站](https://vjudge.net/contest/409541)|184|18|6|7|6|[ABDFHKJLM]|2020-11-27||
 28| [2020 China Collegiate Programming Contest - Mianyang Site](https://codeforces.com/gym/102822)|308|30|5|6|4|[CDEGHJKL]|2020-11-28||
-29| [The 2017 China Collegiate Programming Contest, Hangzhou Site](https://vjudge.net/contest/411055)|188|18|7|8|6|[ABCDEGHJKL]|2020-12-5||
-30| [2016 CCPC Hangzhou Onsite](https://vjudge.net/contest/411056)|179|17|7|8|5|[ABCDEFIJK]|2020-12-6|doing|
+29| [The 2017 China Collegiate Programming Contest, Hangzhou Site](https://vjudge.net/contest/411055)|188|18|7|8|6|[ABCDEGHJKL]|2020-12-05||
+30| [2016 CCPC Hangzhou Onsite](https://vjudge.net/contest/411056)|179|17|7|8|5|[ABCDEFIJK]|2020-12-06|doing|
 31| [2019 ICPC Asia-East Continent Final](http://codeforces.com/gym/102471)|383|35|5|6|4|[ACDEGHJM]|2020-12-12||
 32| [2016 CCPC Hefei Onsite](https://vjudge.net/contest/412286)|148|14|6|7|7|[ACDEGHIJ]|2020-12-13|doing|
 33| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（南京）](https://ac.nowcoder.com/acm/contest/10272)|543|35|6|7|5|[EFHKL]|2020-12-20|-|
-34| [2020-2021 ACM-ICPC, Asia Seoul Regional Contest](https://codeforces.com/gym/102920)|59|5|9|10|8|[ABCEFGHIJKL]|2021-1-19|doing|
-35| [2020 CCPC Wannafly Winter Camp Day1 Div.1&2](https://ac.nowcoder.com/acm/contest/12115)|187|18|3|4|6|[ABCFGHI]|2021-2-7||
-36| [2020-2021 ICPC - Gran Premio de Mexico - Repechaje](http://codeforces.com/gym/102966)|-|-|-|-|11|[ABCEFGJKLMN]|2021-3-2||
-37| [2020-2021 Winter Petrozavodsk Camp, Day 9 Contest (XXI Open Cup, Grand Prix of Suwon)](http://codeforces.com/gym/102979)|139|13|8|8|2|[ACFIJ]|2021-3-7|doing|
-38| [2020 CCPC Wannafly Winter Camp Day2 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/12879)|115|11|6|7|5|[ABCEFHIK]|2021-3-10|doing|
-39| [2020 Multi-University Training Contest 8 [Cloned]](https://vjudge.net/contest/427415)|717|71|5|6|4|[BCDFHIKL]|2021-3-14||
-40| [2020 ICPC·小米邀请赛 决赛（重现赛）](https://ac.nowcoder.com/acm/contest/13219)|102|10|6|7|2|[BGJKL]+[I]|2021-3-17|doing|
-41| [The 2019 China Collegiate Programming Contest Harbin Site](https://codeforces.com/gym/102394)|272|27|6|7|6|[ABCEFIJKL]|2021-3-20||
-42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[DEFGHIJ]|2021-3-24||
-43| [2020 China Collegiate Programming Contest, Weihai Site](https://codeforc.es/gym/102798)|383|35|6|7|4|[ACDGHL]|2021-3-27|doing|
-44| [2020-2021 Winter Petrozavodsk Camp, Belarusian SU Contest (XXI Open Cup, Grand Prix of Belarus)](https://codeforces.com/gym/102956)|143|14|11|12|6|[CDEGIJMN]|2021-3-28|doing|
-45| [2020 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/430690)|548|35|3|4|2|[ABG]|2021-3-31|doing|
-46| [2020 Multi-University Training Contest 6 [Cloned]](https://vjudge.net/contest/431358)|746|35|8|9|6|[ABDEFGHIJK]|2021-4-4|doing|
-47| [2020 Petrozavodsk Winter Camp, Jagiellonian U Contest](https://codeforces.com/gym/102576)|87|8|11|12|5|[BEGIL]|2021-4-7|doing|
-48| [2019 China Collegiate Programming Contest Final (CCPC-Final 2019)](https://codeforces.com/gym/102431)|120|12|5|5|4|[AIKL]|2021-4-10|doing|
-49| [2020 China Collegiate Programming Contest Changchun Onsite](https://codeforces.com/gym/102832)|320|32|4|5|4|[ADFHJKL]|2021-4-14|doing|
-50| [2020 ICPC Asia-East Continent Final](https://codeforces.com/gym/103069)|288|28|5|6|3|[ABFGIKL]|2021-4-18|doing|
-51| [2020 Multi-University Training Contest 5 [Cloned]](https://vjudge.net/contest/434647)|661|35|6|7|4|[ACGIL]|2021-4-21|doing|
-52| [2020 Multi-University Training Contest 10 [Cloned]](https://vjudge.net/contest/435352)|458|35|5|5|4|[CDEJK]|2021-4-25|doing|
-53| [2020-2021 ICPC Northwestern European Regional Programming Contest (NWERC 2020)](https://codeforces.com/gym/103049)|119|11|9|10|7|[ABCDEFGHIK]|2021-4-28|doing|
-54| [Samara Farewell Contest 2020 (XXI Open Cup, GP of Samara)](https://codeforces.com/gym/102916)|128|12|11|11|4|[BGJKLM]|2021-4-30|doing|
-55| [2020-2021 Russia Team Open, High School Programming Contest (VKOSHP 20)](https://codeforces.com/gym/102893)|306|30|7|8|6|[ABCDFHJ]+[G]|2021-5-2|doing|
-56| [2020 CCPC Wannafly Winter Camp Day5 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15924?&headNav=www)|129|12|4|5|3|[AEGI]+[JFD]|2021-5-3||
-57| [2020 CCPC-Wannafly Winter Camp Day3 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15977)|254|25|3|4|5|[ACDEFG]|2021-5-4||
-58| [Moscow Pre-Finals Workshop 2020 - Legilimens+Coffee Chicken Contest (XX Open Cup, Grand Prix of Nanjing)](https://codeforces.com/gym/102994)|105|10|8|9|3|[ABGJL]+[I]|2021-5-5|doing|
-59| [2020-2021 Summer Petrozavodsk Camp, Day 6: Korean Contest](https://codeforces.com/gym/102984)|52|5|6|7|3|[ADEFGK]|2021-5-8|doing|
-60| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）（重现赛）](https://ac.nowcoder.com/acm/contest/16235?&headNav=www#question)|634|35|7|8|7|[BCDEFGILM]+[H]|2021-5-9||
-61| [2019 China Collegiate Programming Contest Qinhuangdao Onsite](https://codeforces.com/gym/102361)|264|26|5|6|7|[ADEFGIJK]|2021-5-13||
-62| [XXI Open Cup. Grand Prix of Korea](https://codeforces.com/gym/102759)|101|10|9|10|4|[DHJK]|2021-5-15|doing|
-63| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（济南）](https://ac.nowcoder.com/acm/contest/16694)|546|35|6|7|7|[ACDGJLM]|2021-5-16|doing|
-64| [Northern Eurasia Finals Online 2020](https://codeforces.com/gym/102896)|312|31|7|8|5|[ACEKM]|2021-5-20|doing|
-65| [2020-2021 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 20)](https://codeforces.com/gym/102860)|454|35|8|9|10|[ABCDEFGIKL]|2021-5-20|doing|
-66| 2021 Xi'an National Invitational Formal Contest | 273 | 28 | 5 | 6 | 5 | [CFGHKLM] |2021-6-6| doing |
-67| [2019 Multi-University Training Contest 8](https://vjudge.net/contest/442954)| 818 | 35 | 6 | 7 | 4 | [CDEFIJK] |2021-6-10| doing |
-68| [2019 Multi-University Training Contest 5](https://vjudge.net/contest/443279)| 713 | 35 | 5 | 6 | 5 | [ADEFGH] |2021-6-13| doing |
-69| [2019 Multi-University Training Contest 6](https://vjudge.net/contest/443347)| 824 | 35 | 6 | 7 | 6 | [BEFHKL] |2021-6-14| doing |
-70| [2020-2021 ICPC Southeastern European Regional Programming Contest (SEERC 2020)](https://codeforces.com/gym/103102)| 95 | 9 | 6 | 7 | 4 | [BEILM] |2021-6-17| doing |
-71| [2021 Hubei Provincial Collegiate Programming Contest](https://codeforces.com/gym/103104) | 100 | 10 | 5 | 6 | 4 | [ADFHI] |2021-6-19| doing |
-72| [2019 Multi-University Training Contest 10](https://vjudge.net/contest/444001)| 719 | 35 | 5 | 6 | 5 | [CEGHIK] |2021-6-20| doing |
-73| [2020-2021 “Orz Panda” Cup Programming Contest](https://codeforces.com/gym/102870)| 16 | 1 | 7 | 7 | 4 | [ACHI] | 2021-6-25 | doing |
-74| [2020-2021 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102861)| 1058 | 35 | 7 | 8 | 9 | [ABEFGHILMN] | 2021-6-27 | |
-75| [The 15th Heilongjiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/102803)| 175 | 17 | 5 | 6 | 8 | [ABCDGHKL] | 2021-7-1| |
-76| [2019 Multi-University Training Contest 4 [Cloned]](https://vjudge.net/contest/445372)| 838 | 35 | 5 | 6 | 5 | [ACGHJ] | 2021-7-4| doing |
-77| [2019-2020 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 19)](https://codeforces.com/gym/102396)|410|35| 6 | 7 | 8 | [ABCEFGHIK] | 2021-7-8 | |
-78| [2019 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/446211)| 747 | 35 | 5 | 6 | 5 | [ABCEF] | 2021-7-9 | doing |
-79| [The 2020 ICPC Asia Macau Regional Contest](https://codeforces.com/gym/103119)| 50 | 5 | 6 | 7 | 6 | [ACDFGL] | 2021-7-13 | doing |
-80| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（昆明）](https://ac.nowcoder.com/acm/contest/18520)| 814 | 35 | 6 | 7 | 7 | [CDHIJLM] | 2021-7-15 | doing |
-81| [The 45th ICPC Asia Shenyang Regional Programming Contest](http://codeforces.com/gym/103202)| 274 | 28 | 6 | 7 | 4 | [FGHK] | 2021-7-18 | doing | 
-82| [2021牛客暑期多校训练营2](https://ac.nowcoder.com/acm/contest/11253)| 1352 | 35 | 6 | 7 | 5 | [CDFIJK] | 2021-7-19 | doing |
-83| [2021“MINIEYE杯”中国大学生算法设计超级联赛（1）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=984)| 754 | 35 | 8 | 9 | 5| [AEFGHI] | 2021-7-20 | doing |
+34| [2020-2021 ACM-ICPC, Asia Seoul Regional Contest](https://codeforces.com/gym/102920)|59|5|9|10|8|[ABCEFGHIJKL]|2021-01-19|doing|
+35| [2020 CCPC Wannafly Winter Camp Day1 Div.1&2](https://ac.nowcoder.com/acm/contest/12115)|187|18|3|4|6|[ABCFGHI]|2021-02-07||
+36| [2020-2021 ICPC - Gran Premio de Mexico - Repechaje](http://codeforces.com/gym/102966)|-|-|-|-|11|[ABCEFGJKLMN]|2021-03-02||
+37| [2020-2021 Winter Petrozavodsk Camp, Day 9 Contest (XXI Open Cup, Grand Prix of Suwon)](http://codeforces.com/gym/102979)|139|13|8|8|2|[ACFIJ]|2021-03-07|doing|
+38| [2020 CCPC Wannafly Winter Camp Day2 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/12879)|115|11|6|7|5|[ABCEFHIK]|2021-03-10|doing|
+39| [2020 Multi-University Training Contest 8 [Cloned]](https://vjudge.net/contest/427415)|717|71|5|6|4|[BCDFHIKL]|2021-03-14||
+40| [2020 ICPC·小米邀请赛 决赛（重现赛）](https://ac.nowcoder.com/acm/contest/13219)|102|10|6|7|2|[BGJKL]+[I]|2021-03-17|doing|
+41| [The 2019 China Collegiate Programming Contest Harbin Site](https://codeforces.com/gym/102394)|272|27|6|7|6|[ABCEFIJKL]|2021-03-20||
+42| [2020 Multi-University Training Contest 7 [Cloned]](https://vjudge.net/contest/429253)|593|35|4|5|3|[DEFGHIJ]|2021-03-24||
+43| [2020 China Collegiate Programming Contest, Weihai Site](https://codeforc.es/gym/102798)|383|35|6|7|4|[ACDGHL]|2021-03-27|doing|
+44| [2020-2021 Winter Petrozavodsk Camp, Belarusian SU Contest (XXI Open Cup, Grand Prix of Belarus)](https://codeforces.com/gym/102956)|143|14|11|12|6|[CDEGIJMN]|2021-03-28|doing|
+45| [2020 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/430690)|548|35|3|4|2|[ABG]|2021-03-31|doing|
+46| [2020 Multi-University Training Contest 6 [Cloned]](https://vjudge.net/contest/431358)|746|35|8|9|6|[ABDEFGHIJK]|2021-04-04|doing|
+47| [2020 Petrozavodsk Winter Camp, Jagiellonian U Contest](https://codeforces.com/gym/102576)|87|8|11|12|5|[BEGIL]|2021-04-07|doing|
+48| [2019 China Collegiate Programming Contest Final (CCPC-Final 2019)](https://codeforces.com/gym/102431)|120|12|5|5|4|[AIKL]|2021-04-10|doing|
+49| [2020 China Collegiate Programming Contest Changchun Onsite](https://codeforces.com/gym/102832)|320|32|4|5|4|[ADFHJKL]|2021-04-14|doing|
+50| [2020 ICPC Asia-East Continent Final](https://codeforces.com/gym/103069)|288|28|5|6|3|[ABFGIKL]|2021-04-18|doing|
+51| [2020 Multi-University Training Contest 5 [Cloned]](https://vjudge.net/contest/434647)|661|35|6|7|4|[ACGIL]|2021-04-21|doing|
+52| [2020 Multi-University Training Contest 10 [Cloned]](https://vjudge.net/contest/435352)|458|35|5|5|4|[CDEJK]|2021-04-25|doing|
+53| [2020-2021 ICPC Northwestern European Regional Programming Contest (NWERC 2020)](https://codeforces.com/gym/103049)|119|11|9|10|7|[ABCDEFGHIK]|2021-04-28|doing|
+54| [Samara Farewell Contest 2020 (XXI Open Cup, GP of Samara)](https://codeforces.com/gym/102916)|128|12|11|11|4|[BGJKLM]|2021-04-30|doing|
+55| [2020-2021 Russia Team Open, High School Programming Contest (VKOSHP 20)](https://codeforces.com/gym/102893)|306|30|7|8|6|[ABCDFHJ]+[G]|2021-05-02|doing|
+56| [2020 CCPC Wannafly Winter Camp Day5 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15924?&headNav=www)|129|12|4|5|3|[AEGI]+[JFD]|2021-05-03||
+57| [2020 CCPC-Wannafly Winter Camp Day3 Div.1&2（重现赛）](https://ac.nowcoder.com/acm/contest/15977)|254|25|3|4|5|[ACDEFG]|2021-05-04||
+58| [Moscow Pre-Finals Workshop 2020 - Legilimens+Coffee Chicken Contest (XX Open Cup, Grand Prix of Nanjing)](https://codeforces.com/gym/102994)|105|10|8|9|3|[ABGJL]+[I]|2021-05-05|doing|
+59| [2020-2021 Summer Petrozavodsk Camp, Day 6: Korean Contest](https://codeforces.com/gym/102984)|52|5|6|7|3|[ADEFGK]|2021-05-08|doing|
+60| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）（重现赛）](https://ac.nowcoder.com/acm/contest/16235?&headNav=www#question)|634|35|7|8|7|[BCDEFGILM]+[H]|2021-05-09||
+61| [2019 China Collegiate Programming Contest Qinhuangdao Onsite](https://codeforces.com/gym/102361)|264|26|5|6|7|[ADEFGIJK]|2021-05-13||
+62| [XXI Open Cup. Grand Prix of Korea](https://codeforces.com/gym/102759)|101|10|9|10|4|[DHJK]|2021-05-15|doing|
+63| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（济南）](https://ac.nowcoder.com/acm/contest/16694)|546|35|6|7|7|[ACDGJLM]|2021-05-16|doing|
+64| [Northern Eurasia Finals Online 2020](https://codeforces.com/gym/102896)|312|31|7|8|5|[ACEKM]|2021-05-20|doing|
+65| [2020-2021 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 20)](https://codeforces.com/gym/102860)|454|35|8|9|10|[ABCDEFGIKL]|2021-05-20|doing|
+66| 2021 Xi'an National Invitational Formal Contest | 273 | 28 | 5 | 6 | 5 | [CFGHKLM] |2021-06-06| doing |
+67| [2019 Multi-University Training Contest 8](https://vjudge.net/contest/442954)| 818 | 35 | 6 | 7 | 4 | [CDEFIJK] |2021-06-10| doing |
+68| [2019 Multi-University Training Contest 5](https://vjudge.net/contest/443279)| 713 | 35 | 5 | 6 | 5 | [ADEFGH] |2021-06-13| doing |
+69| [2019 Multi-University Training Contest 6](https://vjudge.net/contest/443347)| 824 | 35 | 6 | 7 | 6 | [BEFHKL] |2021-06-14| doing |
+70| [2020-2021 ICPC Southeastern European Regional Programming Contest (SEERC 2020)](https://codeforces.com/gym/103102)| 95 | 9 | 6 | 7 | 4 | [BEILM] |2021-06-17| doing |
+71| [2021 Hubei Provincial Collegiate Programming Contest](https://codeforces.com/gym/103104) | 100 | 10 | 5 | 6 | 4 | [ADFHI] |2021-06-19| doing |
+72| [2019 Multi-University Training Contest 10](https://vjudge.net/contest/444001)| 719 | 35 | 5 | 6 | 5 | [CEGHIK] |2021-06-20| doing |
+73| [2020-2021 “Orz Panda” Cup Programming Contest](https://codeforces.com/gym/102870)| 16 | 1 | 7 | 7 | 4 | [ACHI] | 2021-06-25 | doing |
+74| [2020-2021 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102861)| 1058 | 35 | 7 | 8 | 9 | [ABEFGHILMN] | 2021-06-27 | |
+75| [The 15th Heilongjiang Provincial Collegiate Programming Contest](https://codeforces.com/gym/102803)| 175 | 17 | 5 | 6 | 8 | [ABCDGHKL] | 2021-07-01| |
+76| [2019 Multi-University Training Contest 4 [Cloned]](https://vjudge.net/contest/445372)| 838 | 35 | 5 | 6 | 5 | [ACGHJ] | 2021-07-04| doing |
+77| [2019-2020 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 19)](https://codeforces.com/gym/102396)|410|35| 6 | 7 | 8 | [ABCEFGHIK] | 2021-07-08 | |
+78| [2019 Multi-University Training Contest 9 [Cloned]](https://vjudge.net/contest/446211)| 747 | 35 | 5 | 6 | 5 | [ABCEF] | 2021-07-09 | doing |
+79| [The 2020 ICPC Asia Macau Regional Contest](https://codeforces.com/gym/103119)| 50 | 5 | 6 | 7 | 6 | [ACDFGL] | 2021-07-13 | doing |
+80| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（昆明）](https://ac.nowcoder.com/acm/contest/18520)| 814 | 35 | 6 | 7 | 7 | [CDHIJLM] | 2021-07-15 | doing |
+81| [The 45th ICPC Asia Shenyang Regional Programming Contest](http://codeforces.com/gym/103202)| 274 | 28 | 6 | 7 | 4 | [FGHK] | 2021-07-18 | doing | 
+82| [2021牛客暑期多校训练营1](https://ac.nowcoder.com/acm/contest/11166)| - | - | - | - | - | [B] | 2021-07-17 | doing |
+83| [2021牛客暑期多校训练营2](https://ac.nowcoder.com/acm/contest/11253)| - | - | - | - | - | [CDFIJK] | 2021-07-19 | doing |
+84| [2021牛客暑期多校训练营3](https://ac.nowcoder.com/acm/contest/11254)| - | - | - | - | - | [EFJ] | 2021-07-24 | doing |
+85| [2021牛客暑期多校训练营4](https://ac.nowcoder.com/acm/contest/11255)| - | - | - | - | - | [CFHIJ] | 2021-07-26 | doing |
+86| [2021牛客暑期多校训练营5](https://ac.nowcoder.com/acm/contest/11256)| - | - | - | - | - | [BDGHJK] | 2021-07-31 | doing |
+87| [2021牛客暑期多校训练营6](https://ac.nowcoder.com/acm/contest/11257)| - | - | - | - | - | [DFHI] | 2021-08-02 | doing |
+88| [2021牛客暑期多校训练营7](https://ac.nowcoder.com/acm/contest/11258)| - | - | - | - | - | [FHIK] | 2021-08-07 | doing |
+89| [2021牛客暑期多校训练营8](https://ac.nowcoder.com/acm/contest/11259)| - | - | - | - | - | [ADEFK] | 2021-08-09 | doing |
+90| [2021牛客暑期多校训练营9](https://ac.nowcoder.com/acm/contest/11260)| - | - | - | - | - | [EH] | 2021-08-014 | doing |
+91| [2021“MINIEYE杯”中国大学生算法设计超级联赛（1）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=984)| - | - | - | - | - | [1,5,6,7,8,9] | 2021-07-20 | doing |
+92| [2021“MINIEYE杯”中国大学生算法设计超级联赛（2）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=985)| - | - | - | - | - | [1,4,5,8,10,11,12] | 2021-07-22 | doing |
+93| [2021“MINIEYE杯”中国大学生算法设计超级联赛（3）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=986)| - | - | - | - | - | [3,4,7,9,11] | 2021-07-27 | doing |
+94| [2021“MINIEYE杯”中国大学生算法设计超级联赛（4）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=987)| - | - | - | - | - | [1,2,4,5,8,9] | 2021-07-29 | doing |
+95| [2021“MINIEYE杯”中国大学生算法设计超级联赛（5）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=988)| - | - | - | - | - | [3,5,6,7] | 2021-08-03 | doing |
+96| [2021“MINIEYE杯”中国大学生算法设计超级联赛（6）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=989)| - | - | - | - | - | [1] | 2021-08-05 | doing |
+97| [2021“MINIEYE杯”中国大学生算法设计超级联赛（7）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=990)| - | - | - | - | - | [3,4,5,6,7,8,10,11,12] | 2021-08-10 | doing |
+98| [2021“MINIEYE杯”中国大学生算法设计超级联赛（8）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=992)| - | - | - | - | - | [2,3,4,6,8,9] | 2021-08-12 | doing |
 
 ---
 
