@@ -102,6 +102,9 @@
 96| [2021“MINIEYE杯”中国大学生算法设计超级联赛（6）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=989)| - | - | - | - | - | [1] | 2021-08-05 | doing |
 97| [2021“MINIEYE杯”中国大学生算法设计超级联赛（7）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=990)| - | - | - | - | - | [3,4,5,6,7,8,10,11,12] | 2021-08-10 | doing |
 98| [2021“MINIEYE杯”中国大学生算法设计超级联赛（8）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=992)| - | - | - | - | - | [2,3,4,6,8,9] | 2021-08-12 | doing |
+99| [2021牛客暑期多校训练营10](https://ac.nowcoder.com/acm/contest/11261)| - | - | - | - | - | [AFH] | 2021-08-16 | doing |
+100| [2021“MINIEYE杯”中国大学生算法设计超级联赛（9）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=991)| - | - | - | - | - | [1,2,3,7] | 2021-08-17 | doing |
+101| [2021“MINIEYE杯”中国大学生算法设计超级联赛（10）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=993)| - | - | - | - | - | [] | 2021-08-19 | doing |
 
 ---
 
