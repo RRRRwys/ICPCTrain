@@ -105,6 +105,7 @@
 99| [2021牛客暑期多校训练营10](https://ac.nowcoder.com/acm/contest/11261)| - | - | - | - | - | [AFH] | 2021-08-16 | doing |
 100| [2021“MINIEYE杯”中国大学生算法设计超级联赛（9）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=991)| - | - | - | - | - | [1,2,3,7] | 2021-08-17 | doing |
 101| [2021“MINIEYE杯”中国大学生算法设计超级联赛（10）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=993)| - | - | - | - | - | [] | 2021-08-19 | doing |
+102| [2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Opencup, Grand Prix of Nizhny Novgorod)](https://codeforces.com/gym/103260)| - | - | - | - | - | [AGIJM] | 2021-09-05 | doing |
 
 ---
 
