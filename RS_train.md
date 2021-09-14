@@ -106,6 +106,7 @@
 100| [2021“MINIEYE杯”中国大学生算法设计超级联赛（9）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=991)| - | - | - | - | - | [1,2,3,7] | 2021-08-17 | doing |
 101| [2021“MINIEYE杯”中国大学生算法设计超级联赛（10）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=993)| - | - | - | - | - | [] | 2021-08-19 | doing |
 102| [2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Opencup, Grand Prix of Nizhny Novgorod)](https://codeforces.com/gym/103260)| - | - | - | - | - | [AGIJM] | 2021-09-05 | doing |
+103| [2019-2020 Winter Petrozavodsk Camp, Day 8: Almost Algorithmic Contest](https://codeforces.com/gym/103261)| - | - | - | - | - | [AFGH] | 2021-09-12 | doing |
 
 ---
 
