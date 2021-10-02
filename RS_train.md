@@ -86,22 +86,22 @@
 80| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（昆明）](https://ac.nowcoder.com/acm/contest/18520)| 814 | 35 | 6 | 7 | 7 | [CDHIJLM] | 2021-07-15 | doing |
 81| [The 45th ICPC Asia Shenyang Regional Programming Contest](http://codeforces.com/gym/103202)| 274 | 28 | 6 | 7 | 4 | [FGHK] | 2021-07-18 | doing | 
 82| [2021牛客暑期多校训练营1](https://ac.nowcoder.com/acm/contest/11166)| - | - | - | - | - | [B] | 2021-07-17 | doing |
-83| [2021牛客暑期多校训练营2](https://ac.nowcoder.com/acm/contest/11253)| - | - | - | - | - | [CDFIJK] | 2021-07-19 | doing |
-84| [2021牛客暑期多校训练营3](https://ac.nowcoder.com/acm/contest/11254)| - | - | - | - | - | [EFJ] | 2021-07-24 | doing |
-85| [2021牛客暑期多校训练营4](https://ac.nowcoder.com/acm/contest/11255)| - | - | - | - | - | [CFHIJ] | 2021-07-26 | doing |
+83| [2021牛客暑期多校训练营2](https://ac.nowcoder.com/acm/contest/11253)| - | - | - | - | - | [CDFGIJK] | 2021-07-19 | doing |
+84| [2021牛客暑期多校训练营3](https://ac.nowcoder.com/acm/contest/11254)| - | - | - | - | - | [BEFIJ] | 2021-07-24 | doing |
+85| [2021牛客暑期多校训练营4](https://ac.nowcoder.com/acm/contest/11255)| - | - | - | - | - | [BCEFHIJ] | 2021-07-26 | doing |
 86| [2021牛客暑期多校训练营5](https://ac.nowcoder.com/acm/contest/11256)| - | - | - | - | - | [BDGHJK] | 2021-07-31 | doing |
-87| [2021牛客暑期多校训练营6](https://ac.nowcoder.com/acm/contest/11257)| - | - | - | - | - | [DFHI] | 2021-08-02 | doing |
+87| [2021牛客暑期多校训练营6](https://ac.nowcoder.com/acm/contest/11257)| - | - | - | - | - | [DFHIJ] | 2021-08-02 | doing |
 88| [2021牛客暑期多校训练营7](https://ac.nowcoder.com/acm/contest/11258)| - | - | - | - | - | [FHIK] | 2021-08-07 | doing |
-89| [2021牛客暑期多校训练营8](https://ac.nowcoder.com/acm/contest/11259)| - | - | - | - | - | [ADEFK] | 2021-08-09 | doing |
+89| [2021牛客暑期多校训练营8](https://ac.nowcoder.com/acm/contest/11259)| - | - | - | - | - | [ADEFJK] | 2021-08-09 | doing |
 90| [2021牛客暑期多校训练营9](https://ac.nowcoder.com/acm/contest/11260)| - | - | - | - | - | [EH] | 2021-08-14 | doing |
 91| [2021“MINIEYE杯”中国大学生算法设计超级联赛（1）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=984)| - | - | - | - | - | [1,5,6,7,8,9] | 2021-07-20 | doing |
 92| [2021“MINIEYE杯”中国大学生算法设计超级联赛（2）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=985)| - | - | - | - | - | [1,4,5,8,10,11,12] | 2021-07-22 | doing |
-93| [2021“MINIEYE杯”中国大学生算法设计超级联赛（3）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=986)| - | - | - | - | - | [3,4,7,9,11] | 2021-07-27 | doing |
+93| [2021“MINIEYE杯”中国大学生算法设计超级联赛（3）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=986)| - | - | - | - | - | [3,4,7,9,10,11] | 2021-07-27 | doing |
 94| [2021“MINIEYE杯”中国大学生算法设计超级联赛（4）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=987)| - | - | - | - | - | [1,2,4,5,8,9] | 2021-07-29 | doing |
 95| [2021“MINIEYE杯”中国大学生算法设计超级联赛（5）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=988)| - | - | - | - | - | [3,5,6,7] | 2021-08-03 | doing |
 96| [2021“MINIEYE杯”中国大学生算法设计超级联赛（6）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=989)| - | - | - | - | - | [1] | 2021-08-05 | doing |
 97| [2021“MINIEYE杯”中国大学生算法设计超级联赛（7）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=990)| - | - | - | - | - | [3,4,5,6,7,8,10,11,12] | 2021-08-10 | doing |
-98| [2021“MINIEYE杯”中国大学生算法设计超级联赛（8）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=992)| - | - | - | - | - | [2,3,4,6,8,9] | 2021-08-12 | doing |
+98| [2021“MINIEYE杯”中国大学生算法设计超级联赛（8）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=992)| - | - | - | - | - | [2,3,4,5,6,8,9] | 2021-08-12 | doing |
 99| [2021牛客暑期多校训练营10](https://ac.nowcoder.com/acm/contest/11261)| - | - | - | - | - | [AFH] | 2021-08-16 | doing |
 100| [2021“MINIEYE杯”中国大学生算法设计超级联赛（9）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=991)| - | - | - | - | - | [1,2,3,7] | 2021-08-17 | doing |
 101| [2021“MINIEYE杯”中国大学生算法设计超级联赛（10）](http://acm.hdu.edu.cn/contests/contest_show.php?cid=993)| - | - | - | - | - | [] | 2021-08-19 | doing |
