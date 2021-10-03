@@ -109,6 +109,7 @@
 103| [2019-2020 Winter Petrozavodsk Camp, Day 8: Almost Algorithmic Contest](https://codeforces.com/gym/103261)| - | - | - | - | - | [AFGH] | 2021-09-12 | doing |
 104| [The 2021 ICPC Asia Regionals Online Contest (I)](http://rank.pintia.cn/)| - | - | - | - | - | [ABDFGHIJK] | 2021-09-19 | doing |
 105| [The 2021 ICPC Asia Regionals Online Contest (II)](http://rank.pintia.cn/)| - | - | - | - | - |[AGHJKLM] | 2021-09-25 | doing |
+106| [2018 Multi-University Training Contest 1 [Cloned]](https://vjudge.net/contest/460551)| - | - | - | - | - |[ACDGK] | 2021-10-03 | doing |
 
 ---
 
