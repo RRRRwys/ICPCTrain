@@ -1,4 +1,4 @@
-# 2020训练安排
+# 2020训练安排(END)
 
 ## Std Contest
 
@@ -86,7 +86,7 @@
 80| [第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（昆明）](https://ac.nowcoder.com/acm/contest/18520)| 814 | 35 | 6 | 7 | 7 | [CDHIJLM] | 2021-07-15 | doing |
 81| [The 45th ICPC Asia Shenyang Regional Programming Contest](http://codeforces.com/gym/103202)| 274 | 28 | 6 | 7 | 4 | [FGHK] | 2021-07-18 | doing | 
 82| [2021牛客暑期多校训练营1](https://ac.nowcoder.com/acm/contest/11166)| - | - | - | - | - | [B] | 2021-07-17 | doing |
-83| [2021牛客暑期多校训练营2](https://ac.nowcoder.com/acm/contest/11253)| - | - | - | - | - | [CDFGIJK] | 2021-07-19 | doing |
+83| [2021牛客暑期多校训练营2](https://ac.nowcoder.com/acm/contest/11253)| - | - | - | - | - | [CDFGIJK]+[L] | 2021-07-19 | doing |
 84| [2021牛客暑期多校训练营3](https://ac.nowcoder.com/acm/contest/11254)| - | - | - | - | - | [BEFIJ] | 2021-07-24 | doing |
 85| [2021牛客暑期多校训练营4](https://ac.nowcoder.com/acm/contest/11255)| - | - | - | - | - | [BCEFHIJ] | 2021-07-26 | doing |
 86| [2021牛客暑期多校训练营5](https://ac.nowcoder.com/acm/contest/11256)| - | - | - | - | - | [BDGHJK] | 2021-07-31 | doing |
@@ -222,6 +222,8 @@
 4. 咱本身就是艰难金牌水平，今年也是各种因素不能好好训，最近又出了个这事，状态肯定不好，要是还有一点想继续，就坚持冲下去；
 5. 后面训练还是个问题，得抓住国庆剩下的时间；
 6. 建议少想退役之后的事情，这就跟谈恋爱一个道理，每次吵架你都想分手以后我就能解脱了，后面就真分了（虽然我也控制不住。。。）何况现在我们犹豫的成本很高了；
+
+救不回来了
 
 ---
 
